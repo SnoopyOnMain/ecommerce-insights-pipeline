@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Customer_Age,Gender,Location,Product_Category,Quantity,Unit_Price
+ORD10000,2025-11-20,56,Non-binary,Chicago,Electronics,2,1099.99
+ORD10001,2025-07-29,57,Male,New York,Electronics,2,1099.99
+ORD10002,2025-05-24,29,Male,New York,Electronics,3,49.99
+ORD10003,2025-11-17,58,Female,Los Angeles,Beauty,3,29.99
+ORD10004,2025-05-18,31,Female,Houston,Clothing,2,14.99
+ORD10005,2025-08-11,41,Male,Houston,Electronics,2,49.99
+ORD10006,2025-08-24,29,Female,Los Angeles,Clothing,2,14.99
+ORD10007,2025-11-28,36,Male,Los Angeles,Clothing,5,14.99
+ORD10008,2025-04-07,22,Male,Houston,Clothing,4,14.99
+ORD10009,2025-02-21,64,Female,Seattle,Electronics,4,299.99
+ORD10010,2025-07-16,19,Male,New York,Electronics,2,599.99
+ORD10011,2025-02-12,35,Male,Seattle,Electronics,1,299.99
+ORD10012,2025-10-05,65,Female,Seattle,Electronics,2,599.99
+ORD10013,2025-09-03,54,Female,Los Angeles,Home & Kitchen,4,150.0
+ORD10014,2025-03-21,33,Male,Seattle,Home & Kitchen,1,24.99
+ORD10015,2025-01-23,24,Female,New York,Beauty,1,29.99
+ORD10016,2025-04-25,19,Male,Houston,Clothing,3,89.99
+ORD10017,2025-04-26,61,Male,Seattle,Electronics,2,49.99
+ORD10018,2025-02-26,32,Male,Chicago,Home & Kitchen,5,24.99
+ORD10019,2025-06-20,25,Male,New York,Electronics,2,599.99
+ORD10020,2025-08-08,51,Male,Los Angeles,Beauty,3,29.99
+ORD10021,2025-11-16,36,Male,New York,Home & Kitchen,3,12.99
+ORD10022,2025-05-16,63,Female,New York,Clothing,3,39.99
+ORD10023,2025-03-17,42,Male,Houston,Electronics,5,299.99
+ORD10024,2025-08-07,64,Male,New York,Home & Kitchen,2,85.0
+ORD10025,2025-07-17,40,Male,Houston,Beauty,5,18.5
+ORD10026,2025-11-22,39,Male,Seattle,Clothing,4,14.99
+ORD10027,2025-10-09,49,Female,Houston,Clothing,1,14.99
+ORD10028,2025-10-25,63,Male,Miami,Clothing,2,19.99
+ORD10029,2025-07-05,18,Male,New York,Home & Kitchen,2,12.99
+ORD10030,2025-02-26,21,Female,Chicago,Clothing,4,89.99
+ORD10031,2025-03-15,53,Non-binary,Houston,Clothing,2,39.99
+ORD10032,2025-01-29,65,Male,Seattle,Clothing,1,14.99
+ORD10033,2025-12-23,45,Male,Seattle,Electronics,4,299.99
+ORD10034,2025-11-01,28,Male,Chicago,Clothing,2,19.99
+ORD10035,2025-02-09,18,Female,Houston,Clothing,4,39.99
+ORD10036,2025-03-13,65,Female,Chicago,Beauty,3,18.5
+ORD10037,2025-08-16,59,Female,Chicago,Electronics,1,599.99
+ORD10038,2025-11-25,20,Female,Los Angeles,Clothing,4,19.99
+ORD10039,2025-08-05,61,Female,Houston,Home & Kitchen,2,150.0
+ORD10040,2025-08-05,28,Male,New York,Beauty,2,29.99
+ORD10041,2025-07-25,57,Male,Houston,Clothing,4,19.99
+ORD10042,2025-09-02,38,Female,Houston,Beauty,1,29.99
+ORD10043,2025-07-10,59,Male,Chicago,Electronics,1,299.99
+ORD10044,2025-07-05,56,Female,Chicago,Electronics,3,599.99
+ORD10045,2025-03-25,52,Male,Los Angeles,Electronics,2,1099.99
+ORD10046,2025-10-10,30,Female,New York,Clothing,1,89.99
+ORD10047,2025-10-19,54,Male,Houston,Electronics,3,299.99
+ORD10048,2025-02-17,37,Male,Chicago,Home & Kitchen,5,12.99
+ORD10049,2025-04-10,38,Female,Seattle,Home & Kitchen,1,85.0
+ORD10050,2025-06-19,44,Female,Miami,Electronics,1,599.99
+ORD10051,2025-10-28,42,Female,New York,Home & Kitchen,2,85.0
+ORD10052,2025-12-16,47,Male,Seattle,Electronics,2,599.99
+ORD10053,2025-12-15,59,Male,Seattle,Clothing,4,89.99
+ORD10054,2025-03-09,39,Male,Miami,Beauty,4,9.99
+ORD10055,2025-05-03,31,Non-binary,Miami,Electronics,5,599.99
+ORD10056,2025-11-18,49,Male,New York,Clothing,5,89.99
+ORD10057,2025-02-14,49,Male,Chicago,Clothing,2,89.99
+ORD10058,2025-02-04,35,Female,Chicago,Electronics,2,299.99
+ORD10059,2025-12-30,47,Male,Houston,Home & Kitchen,2,12.99
+ORD10060,2025-03-05,54,Female,Chicago,Home & Kitchen,4,12.99
+ORD10061,2025-11-14,61,Male,Chicago,Home & Kitchen,1,150.0
+ORD10062,2025-12-16,44,Female,Chicago,Electronics,2,299.99
+ORD10063,2025-12-25,53,Male,New York,Home & Kitchen,2,12.99
+ORD10064,2025-10-19,43,Female,Los Angeles,Beauty,1,18.5
+ORD10065,2025-06-28,47,Female,Miami,Beauty,1,9.99
+ORD10066,2025-04-03,64,Male,Houston,Beauty,4,29.99
+ORD10067,2025-06-18,22,Male,Miami,Beauty,4,29.99
+ORD10068,2025-02-28,35,Female,Miami,Clothing,2,14.99
+ORD10069,2025-11-24,31,Male,New York,Beauty,3,9.99
+ORD10070,2025-08-09,48,Male,Los Angeles,Electronics,3,49.99
+ORD10071,2025-05-10,58,Male,Los Angeles,Electronics,4,1099.99
+ORD10072,2025-02-11,37,Female,Houston,Beauty,3,29.99
+ORD10073,2025-04-05,21,Male,Houston,Home & Kitchen,2,150.0
+ORD10074,2025-04-12,40,Female,Houston,Beauty,4,29.99
+ORD10075,2025-07-01,62,Female,New York,Clothing,5,19.99
+ORD10076,2025-11-12,27,Male,Seattle,Home & Kitchen,2,24.99
+ORD10077,2025-08-23,27,Female,Chicago,Electronics,3,49.99
+ORD10078,2025-09-24,64,Male,Houston,Clothing,5,14.99
+ORD10079,2025-02-19,20,Male,Los Angeles,Beauty,5,29.99
+ORD10080,2025-07-13,31,Male,Los Angeles,Electronics,3,1099.99
+ORD10081,2025-01-09,37,Female,Miami,Electronics,4,49.99
+ORD10082,2025-07-31,44,Male,Miami,Beauty,1,75.0
+ORD10083,2025-04-01,47,Male,Los Angeles,Clothing,4,14.99
+ORD10084,2025-05-26,60,Female,Houston,Home & Kitchen,1,24.99
+ORD10085,2025-02-23,23,Female,Miami,Beauty,4,9.99
+ORD10086,2025-11-16,52,Male,Houston,Electronics,4,1099.99
+ORD10087,2025-04-19,32,Female,Miami,Beauty,2,9.99
+ORD10088,2025-08-29,25,Male,Houston,Beauty,1,18.5
+ORD10089,2025-07-11,32,Female,Chicago,Home & Kitchen,4,150.0
+ORD10090,2025-12-11,33,Male,Houston,Electronics,1,299.99
+ORD10091,2025-03-20,41,Female,Miami,Home & Kitchen,2,150.0
+ORD10092,2025-10-20,45,Male,Houston,Clothing,1,14.99
+ORD10093,2025-10-23,45,Male,Seattle,Beauty,4,29.99
+ORD10094,2025-06-12,51,Male,Los Angeles,Electronics,5,599.99
+ORD10095,2025-03-02,58,Female,Houston,Home & Kitchen,3,85.0
+ORD10096,2025-04-15,23,Male,Houston,Electronics,1,599.99
+ORD10097,2025-11-13,63,Female,New York,Beauty,2,9.99
+ORD10098,2025-08-21,58,Female,Chicago,Clothing,2,39.99
+ORD10099,2025-06-02,30,Female,Los Angeles,Beauty,1,75.0
+ORD10100,2025-05-21,23,Female,Seattle,Electronics,1,299.99
+ORD10101,2025-08-24,56,Male,Los Angeles,Home & Kitchen,2,150.0
+ORD10102,2025-02-17,22,Female,Chicago,Clothing,1,14.99
+ORD10103,2025-09-09,19,Male,Houston,Electronics,4,599.99
+ORD10104,2025-07-12,38,Female,Houston,Clothing,3,39.99
+ORD10105,2025-01-06,29,Female,Seattle,Electronics,3,299.99
+ORD10106,2025-06-27,48,Non-binary,Miami,Electronics,5,599.99
+ORD10107,2025-05-11,25,Male,New York,Electronics,2,599.99
+ORD10108,2025-07-06,25,Female,New York,Home & Kitchen,2,85.0
+ORD10109,2025-02-12,64,Female,Los Angeles,Home & Kitchen,4,150.0
+ORD10110,2025-04-13,23,Male,Miami,Home & Kitchen,4,12.99
+ORD10111,2025-08-12,50,Female,Los Angeles,Home & Kitchen,2,85.0
+ORD10112,2025-12-18,63,Male,Houston,Electronics,2,1099.99
+ORD10113,2025-04-16,64,Female,Houston,Beauty,3,75.0
+ORD10114,2025-11-15,24,Female,Houston,Clothing,3,89.99
+ORD10115,2025-11-20,22,Male,New York,Home & Kitchen,3,12.99
+ORD10116,2025-11-06,59,Non-binary,Miami,Home & Kitchen,1,12.99
+ORD10117,2025-02-28,29,Female,Houston,Clothing,2,89.99
+ORD10118,2025-02-07,31,Female,Chicago,Clothing,1,89.99
+ORD10119,2025-01-05,38,Female,Seattle,Home & Kitchen,4,85.0
+ORD10120,2025-10-18,38,Female,Miami,Electronics,3,49.99
+ORD10121,2025-11-05,31,Female,New York,Home & Kitchen,5,24.99
+ORD10122,2025-11-27,44,Female,Houston,Home & Kitchen,2,150.0
+ORD10123,2025-04-11,21,Female,Houston,Electronics,4,1099.99
+ORD10124,2025-03-03,25,Female,Miami,Home & Kitchen,2,12.99
+ORD10125,2025-10-23,19,Male,Seattle,Electronics,3,49.99
+ORD10126,2025-03-09,43,Male,Miami,Electronics,1,1099.99
+ORD10127,2025-02-05,48,Male,Houston,Home & Kitchen,3,150.0
+ORD10128,2025-06-27,43,Male,Chicago,Beauty,4,9.99
+ORD10129,2025-06-02,62,Non-binary,Houston,Electronics,5,1099.99
+ORD10130,2025-02-22,19,Male,New York,Clothing,3,19.99
+ORD10131,2025-12-19,64,Male,Los Angeles,Electronics,3,599.99
+ORD10132,2025-10-03,18,Female,New York,Home & Kitchen,1,24.99
+ORD10133,2025-01-25,37,Male,Chicago,Beauty,2,75.0
+ORD10134,2025-03-12,55,Female,Los Angeles,Home & Kitchen,5,85.0
+ORD10135,2025-07-31,58,Male,New York,Clothing,4,14.99
+ORD10136,2025-05-24,38,Female,Houston,Clothing,3,19.99
+ORD10137,2025-06-01,63,Male,Miami,Clothing,1,39.99
+ORD10138,2025-02-08,49,Male,New York,Clothing,4,14.99
+ORD10139,2025-04-07,49,Male,Los Angeles,Home & Kitchen,4,150.0
+ORD10140,2025-12-02,27,Female,New York,Clothing,3,39.99
+ORD10141,2025-07-17,46,Female,Miami,Clothing,2,14.99
+ORD10142,2025-02-05,35,Male,Seattle,Home & Kitchen,2,24.99
+ORD10143,2025-08-25,24,Female,Los Angeles,Electronics,2,49.99
+ORD10144,2025-05-17,19,Female,Miami,Beauty,3,75.0
+ORD10145,2025-03-02,53,Male,Houston,Clothing,4,39.99
+ORD10146,2025-09-15,45,Female,New York,Beauty,3,75.0
+ORD10147,2025-02-20,21,Female,Seattle,Beauty,3,29.99
+ORD10148,2025-04-07,43,Male,Chicago,Beauty,1,18.5
+ORD10149,2025-12-15,21,Female,New York,Clothing,1,19.99
+ORD10150,2025-01-19,54,Male,New York,Electronics,2,1099.99
+ORD10151,2025-11-14,62,Female,Houston,Beauty,2,9.99
+ORD10152,2025-12-21,35,Female,Los Angeles,Clothing,3,89.99
+ORD10153,2025-12-28,56,Male,New York,Electronics,5,599.99
+ORD10154,2025-12-25,57,Female,Chicago,Clothing,3,39.99
+ORD10155,2025-12-15,22,Male,Chicago,Beauty,1,29.99
+ORD10156,2025-12-08,48,Male,New York,Clothing,1,89.99
+ORD10157,2025-03-29,61,Female,New York,Home & Kitchen,5,12.99
+ORD10158,2025-01-01,49,Female,Houston,Electronics,1,299.99
+ORD10159,2025-10-18,61,Non-binary,Los Angeles,Clothing,1,39.99
+ORD10160,2025-02-21,37,Female,Chicago,Beauty,3,18.5
+ORD10161,2025-10-07,34,Female,Chicago,Home & Kitchen,1,12.99
+ORD10162,2025-06-30,37,Female,Miami,Beauty,3,9.99
+ORD10163,2025-12-18,51,Female,New York,Clothing,2,14.99
+ORD10164,2025-12-04,27,Male,New York,Clothing,3,14.99
+ORD10165,2025-04-16,65,Male,Houston,Electronics,5,1099.99
+ORD10166,2025-08-19,51,Male,Seattle,Home & Kitchen,4,150.0
+ORD10167,2025-10-29,44,Female,Chicago,Home & Kitchen,1,85.0
+ORD10168,2025-10-24,51,Female,Miami,Electronics,4,49.99
+ORD10169,2025-10-18,40,Male,New York,Beauty,4,29.99
+ORD10170,2025-12-15,27,Female,Chicago,Clothing,4,89.99
+ORD10171,2025-05-28,22,Female,New York,Beauty,2,9.99
+ORD10172,2025-05-25,55,Male,Houston,Home & Kitchen,4,24.99
+ORD10173,2025-06-30,60,Female,New York,Home & Kitchen,3,85.0
+ORD10174,2025-05-26,50,Female,Miami,Clothing,3,19.99
+ORD10175,2025-03-15,64,Male,Miami,Electronics,2,1099.99
+ORD10176,2025-01-17,48,Female,Los Angeles,Beauty,4,18.5
+ORD10177,2025-02-20,34,Female,Miami,Home & Kitchen,5,85.0
+ORD10178,2025-08-12,61,Female,Miami,Clothing,3,39.99
+ORD10179,2025-03-11,44,Female,Chicago,Home & Kitchen,3,24.99
+ORD10180,2025-10-18,58,Female,Los Angeles,Beauty,1,18.5
+ORD10181,2025-03-12,51,Male,Chicago,Home & Kitchen,3,12.99
+ORD10182,2025-08-07,47,Male,Houston,Beauty,5,9.99
+ORD10183,2025-01-14,44,Male,Los Angeles,Home & Kitchen,5,85.0
+ORD10184,2025-09-20,41,Male,Miami,Home & Kitchen,4,24.99
+ORD10185,2025-03-06,43,Female,Houston,Beauty,1,9.99
+ORD10186,2025-01-29,35,Female,Seattle,Electronics,5,1099.99
+ORD10187,2025-02-19,36,Female,Seattle,Home & Kitchen,1,24.99
+ORD10188,2025-10-27,61,Female,Seattle,Electronics,5,599.99
+ORD10189,2025-03-15,53,Female,Houston,Clothing,2,39.99
+ORD10190,2025-06-04,58,Male,New York,Beauty,1,29.99
+ORD10191,2025-02-04,18,Male,New York,Electronics,2,599.99
+ORD10192,2025-02-23,48,Male,Miami,Beauty,1,18.5
+ORD10193,2025-03-04,37,Male,Los Angeles,Clothing,5,89.99
+ORD10194,2025-12-15,46,Female,Miami,Electronics,2,49.99
+ORD10195,2025-11-22,19,Male,Seattle,Clothing,5,39.99
+ORD10196,2025-12-25,52,Male,Houston,Home & Kitchen,1,150.0
+ORD10197,2025-10-29,49,Male,Chicago,Beauty,1,18.5
+ORD10198,2025-08-26,44,Female,Los Angeles,Electronics,4,1099.99
+ORD10199,2025-03-03,54,Male,Miami,Home & Kitchen,5,24.99
+ORD10200,2025-08-16,20,Female,Chicago,Clothing,4,14.99
+ORD10201,2025-05-22,18,Non-binary,Chicago,Clothing,5,89.99
+ORD10202,2025-07-19,50,Male,Seattle,Clothing,5,89.99
+ORD10203,2025-06-23,47,Female,Los Angeles,Home & Kitchen,4,150.0
+ORD10204,2025-02-04,59,Female,Houston,Clothing,2,89.99
+ORD10205,2025-12-24,38,Female,Miami,Home & Kitchen,1,12.99
+ORD10206,2025-01-24,19,Female,Los Angeles,Clothing,1,19.99
+ORD10207,2025-09-13,61,Female,Los Angeles,Clothing,2,19.99
+ORD10208,2025-07-16,44,Female,New York,Home & Kitchen,1,24.99
+ORD10209,2025-02-07,46,Female,Miami,Electronics,3,599.99
+ORD10210,2025-02-25,62,Male,Los Angeles,Clothing,3,39.99
+ORD10211,2025-09-09,46,Female,Los Angeles,Clothing,4,39.99
+ORD10212,2025-09-28,30,Male,New York,Electronics,1,599.99
+ORD10213,2025-03-13,18,Male,Houston,Electronics,2,1099.99
+ORD10214,2025-12-16,64,Non-binary,Seattle,Beauty,2,29.99
+ORD10215,2025-10-20,48,Female,Chicago,Clothing,4,19.99
+ORD10216,2025-08-07,58,Male,New York,Electronics,5,599.99
+ORD10217,2025-06-02,24,Male,Los Angeles,Electronics,1,1099.99
+ORD10218,2025-04-25,36,Female,Chicago,Beauty,1,75.0
+ORD10219,2025-03-22,36,Male,Miami,Clothing,4,89.99
+ORD10220,2025-11-13,21,Female,New York,Beauty,1,75.0
+ORD10221,2025-01-17,39,Male,Los Angeles,Home & Kitchen,2,24.99
+ORD10222,2025-04-15,53,Female,Chicago,Electronics,4,599.99
+ORD10223,2025-02-07,54,Female,Seattle,Electronics,1,1099.99
+ORD10224,2025-08-02,56,Female,New York,Beauty,3,29.99
+ORD10225,2025-01-22,24,Male,Miami,Clothing,4,89.99
+ORD10226,2025-09-02,37,Female,Los Angeles,Electronics,1,299.99
+ORD10227,2025-04-11,52,Female,Houston,Electronics,1,49.99
+ORD10228,2025-07-18,42,Female,Houston,Beauty,1,29.99
+ORD10229,2025-08-13,25,Female,Chicago,Home & Kitchen,3,85.0
+ORD10230,2025-08-12,21,Male,New York,Electronics,4,599.99
+ORD10231,2025-10-02,54,Male,New York,Clothing,1,19.99
+ORD10232,2025-01-30,26,Male,Chicago,Electronics,3,1099.99
+ORD10233,2025-11-05,59,Female,Chicago,Clothing,4,14.99
+ORD10234,2025-12-03,25,Female,New York,Home & Kitchen,4,85.0
+ORD10235,2025-12-28,65,Female,Los Angeles,Beauty,3,75.0
+ORD10236,2025-10-10,36,Female,Los Angeles,Home & Kitchen,5,150.0
+ORD10237,2025-09-15,24,Male,Houston,Beauty,1,75.0
+ORD10238,2025-04-15,26,Female,Miami,Clothing,5,89.99
+ORD10239,2025-04-18,25,Male,Los Angeles,Electronics,4,599.99
+ORD10240,2025-11-29,47,Non-binary,New York,Beauty,3,9.99
+ORD10241,2025-05-23,55,Male,New York,Electronics,5,1099.99
+ORD10242,2025-07-16,49,Male,Houston,Beauty,1,18.5
+ORD10243,2025-04-25,31,Male,Seattle,Beauty,3,9.99
+ORD10244,2025-01-17,52,Female,New York,Home & Kitchen,5,150.0
+ORD10245,2025-04-21,19,Male,Miami,Beauty,1,18.5
+ORD10246,2025-02-25,53,Male,Seattle,Home & Kitchen,4,12.99
+ORD10247,2025-10-21,64,Female,Miami,Home & Kitchen,4,85.0
+ORD10248,2025-08-28,65,Non-binary,Los Angeles,Clothing,3,19.99
+ORD10249,2025-12-16,35,Male,Los Angeles,Home & Kitchen,5,150.0
+ORD10250,2025-07-22,20,Female,Chicago,Home & Kitchen,5,150.0
+ORD10251,2025-01-07,25,Male,Seattle,Home & Kitchen,2,150.0
+ORD10252,2025-08-16,47,Male,New York,Beauty,3,9.99
+ORD10253,2025-09-03,58,Female,Los Angeles,Beauty,5,9.99
+ORD10254,2025-02-10,35,Female,Miami,Home & Kitchen,4,24.99
+ORD10255,2025-04-03,34,Female,Chicago,Home & Kitchen,2,12.99
+ORD10256,2025-04-27,58,Male,Miami,Electronics,1,599.99
+ORD10257,2025-12-02,20,Male,Miami,Beauty,1,75.0
+ORD10258,2025-10-11,63,Male,Seattle,Home & Kitchen,1,150.0
+ORD10259,2025-12-14,40,Female,New York,Clothing,1,89.99
+ORD10260,2025-02-09,50,Male,Miami,Electronics,2,599.99
+ORD10261,2025-06-16,54,Male,Seattle,Beauty,4,9.99
+ORD10262,2025-05-25,27,Male,Miami,Home & Kitchen,4,150.0
+ORD10263,2025-11-30,41,Female,Chicago,Electronics,3,599.99
+ORD10264,2025-01-23,36,Female,Miami,Electronics,5,299.99
+ORD10265,2025-04-19,38,Female,Seattle,Home & Kitchen,4,85.0
+ORD10266,2025-10-26,20,Female,Los Angeles,Beauty,1,9.99
+ORD10267,2025-04-25,54,Female,Miami,Beauty,5,9.99
+ORD10268,2025-01-27,56,Female,Miami,Beauty,3,75.0
+ORD10269,2025-04-10,54,Male,Los Angeles,Home & Kitchen,3,85.0
+ORD10270,2025-04-29,47,Male,New York,Clothing,4,14.99
+ORD10271,2025-07-05,23,Male,Miami,Electronics,4,1099.99
+ORD10272,2025-11-06,32,Male,Houston,Clothing,5,39.99
+ORD10273,2025-05-06,44,Female,Seattle,Clothing,3,89.99
+ORD10274,2025-06-24,38,Male,Houston,Beauty,5,29.99
+ORD10275,2025-09-11,58,Female,Los Angeles,Clothing,1,14.99
+ORD10276,2025-03-27,25,Male,Miami,Beauty,2,9.99
+ORD10277,2025-01-18,45,Male,Los Angeles,Electronics,5,599.99
+ORD10278,2025-09-29,42,Female,Chicago,Clothing,5,14.99
+ORD10279,2025-05-04,63,Male,Chicago,Home & Kitchen,1,24.99
+ORD10280,2025-02-07,65,Female,Houston,Beauty,4,18.5
+ORD10281,2025-05-29,48,Female,Seattle,Clothing,2,19.99
+ORD10282,2025-01-04,55,Female,Seattle,Beauty,3,18.5
+ORD10283,2025-08-13,29,Female,Miami,Home & Kitchen,2,24.99
+ORD10284,2025-06-02,49,Male,Miami,Beauty,3,75.0
+ORD10285,2025-07-16,38,Female,Los Angeles,Electronics,4,599.99
+ORD10286,2025-09-23,35,Female,Miami,Home & Kitchen,3,24.99
+ORD10287,2025-05-26,28,Male,Chicago,Beauty,2,18.5
+ORD10288,2025-03-28,36,Female,Chicago,Electronics,3,599.99
+ORD10289,2025-03-14,24,Male,Miami,Clothing,5,19.99
+ORD10290,2025-01-21,52,Female,Los Angeles,Electronics,1,49.99
+ORD10291,2025-07-09,31,Male,Miami,Beauty,5,18.5
+ORD10292,2025-03-06,47,Male,New York,Electronics,4,49.99
+ORD10293,2025-09-10,34,Male,Los Angeles,Home & Kitchen,3,24.99
+ORD10294,2025-02-10,65,Female,Seattle,Electronics,2,1099.99
+ORD10295,2025-09-17,39,Male,Seattle,Electronics,1,1099.99
+ORD10296,2025-08-10,24,Female,Miami,Home & Kitchen,5,85.0
+ORD10297,2025-12-05,58,Male,Seattle,Electronics,2,599.99
+ORD10298,2025-10-28,42,Female,Los Angeles,Clothing,4,89.99
+ORD10299,2025-03-19,49,Female,Seattle,Beauty,2,75.0
+ORD10300,2025-04-12,58,Female,Miami,Clothing,4,19.99
+ORD10301,2025-02-04,49,Female,Los Angeles,Clothing,4,19.99
+ORD10302,2025-12-19,34,Female,Seattle,Clothing,4,89.99
+ORD10303,2025-09-29,60,Non-binary,Chicago,Clothing,4,89.99
+ORD10304,2025-09-08,58,Male,Chicago,Beauty,1,75.0
+ORD10305,2025-04-23,25,Non-binary,Chicago,Beauty,3,18.5
+ORD10306,2025-05-07,60,Male,Los Angeles,Beauty,1,75.0
+ORD10307,2025-06-27,62,Male,Los Angeles,Beauty,5,18.5
+ORD10308,2025-07-30,61,Male,Chicago,Home & Kitchen,4,85.0
+ORD10309,2025-02-01,53,Female,Chicago,Home & Kitchen,4,12.99
+ORD10310,2025-08-15,45,Male,New York,Home & Kitchen,2,12.99
+ORD10311,2025-06-23,58,Female,Chicago,Beauty,2,18.5
+ORD10312,2025-10-21,28,Female,Seattle,Electronics,2,1099.99
+ORD10313,2025-11-06,52,Male,Seattle,Electronics,1,49.99
+ORD10314,2025-12-27,39,Female,Miami,Electronics,5,299.99
+ORD10315,2025-04-18,41,Female,Los Angeles,Beauty,3,29.99
+ORD10316,2025-03-24,41,Male,Los Angeles,Clothing,1,19.99
+ORD10317,2025-01-11,51,Male,Houston,Beauty,2,9.99
+ORD10318,2025-05-25,37,Male,Seattle,Clothing,3,19.99
+ORD10319,2025-03-05,42,Female,Los Angeles,Home & Kitchen,1,24.99
+ORD10320,2025-02-07,50,Female,Seattle,Beauty,1,9.99
+ORD10321,2025-10-05,56,Female,New York,Beauty,5,29.99
+ORD10322,2025-06-09,38,Male,Seattle,Electronics,3,1099.99
+ORD10323,2025-08-23,30,Male,Seattle,Beauty,3,18.5
+ORD10324,2025-08-08,23,Male,Houston,Home & Kitchen,3,12.99
+ORD10325,2025-12-26,52,Female,Houston,Electronics,4,49.99
+ORD10326,2025-07-10,52,Female,Houston,Clothing,4,19.99
+ORD10327,2025-04-29,46,Male,Miami,Electronics,3,1099.99
+ORD10328,2025-03-15,58,Non-binary,New York,Clothing,4,39.99
+ORD10329,2025-10-31,33,Male,Houston,Beauty,1,29.99
+ORD10330,2025-09-10,34,Male,Seattle,Home & Kitchen,1,85.0
+ORD10331,2025-06-14,62,Female,Houston,Electronics,2,1099.99
+ORD10332,2025-10-15,49,Female,Chicago,Clothing,4,89.99
+ORD10333,2025-12-29,48,Female,Seattle,Electronics,4,299.99
+ORD10334,2025-12-25,22,Male,New York,Clothing,2,19.99
+ORD10335,2025-04-12,46,Female,New York,Electronics,4,49.99
+ORD10336,2025-03-29,58,Female,Houston,Clothing,4,14.99
+ORD10337,2025-01-05,36,Male,Chicago,Home & Kitchen,5,150.0
+ORD10338,2025-07-10,54,Female,Los Angeles,Home & Kitchen,5,85.0
+ORD10339,2026-01-01,41,Female,Chicago,Beauty,2,18.5
+ORD10340,2025-06-19,65,Female,Los Angeles,Clothing,1,14.99
+ORD10341,2025-06-12,44,Male,Houston,Electronics,3,299.99
+ORD10342,2025-12-26,30,Male,New York,Beauty,1,75.0
+ORD10343,2025-02-01,57,Female,Los Angeles,Electronics,5,1099.99
+ORD10344,2025-04-26,40,Female,Los Angeles,Home & Kitchen,4,150.0
+ORD10345,2025-10-27,64,Male,Miami,Beauty,5,75.0
+ORD10346,2025-10-05,59,Female,New York,Clothing,2,19.99
+ORD10347,2025-05-24,29,Male,New York,Clothing,3,14.99
+ORD10348,2025-10-22,55,Female,Seattle,Beauty,2,29.99
+ORD10349,2025-01-02,32,Non-binary,New York,Clothing,2,39.99
+ORD10350,2025-09-01,18,Male,New York,Clothing,4,14.99
+ORD10351,2025-12-07,48,Male,Miami,Electronics,5,599.99
+ORD10352,2025-07-21,42,Female,Seattle,Beauty,3,75.0
+ORD10353,2025-09-25,38,Female,Miami,Clothing,3,39.99
+ORD10354,2025-12-31,27,Female,Miami,Beauty,3,18.5
+ORD10355,2025-12-17,25,Female,Houston,Home & Kitchen,1,85.0
+ORD10356,2025-07-07,47,Female,Chicago,Beauty,5,29.99
+ORD10357,2025-10-14,30,Male,Los Angeles,Electronics,4,599.99
+ORD10358,2025-07-04,51,Male,Miami,Home & Kitchen,1,150.0
+ORD10359,2025-07-08,34,Female,New York,Home & Kitchen,3,24.99
+ORD10360,2025-11-25,48,Male,Seattle,Home & Kitchen,1,150.0
+ORD10361,2025-10-20,19,Female,Houston,Beauty,2,18.5
+ORD10362,2025-08-31,65,Female,Miami,Electronics,3,299.99
+ORD10363,2025-01-15,57,Female,Los Angeles,Clothing,1,39.99
+ORD10364,2025-08-03,25,Male,Seattle,Electronics,1,1099.99
+ORD10365,2025-10-06,35,Non-binary,Los Angeles,Electronics,3,1099.99
+ORD10366,2025-12-30,28,Female,Miami,Home & Kitchen,4,24.99
+ORD10367,2025-08-02,60,Female,New York,Clothing,3,39.99
+ORD10368,2025-02-12,29,Male,Chicago,Clothing,2,14.99
+ORD10369,2025-11-22,65,Female,New York,Home & Kitchen,5,150.0
+ORD10370,2025-06-29,25,Male,Miami,Electronics,1,49.99
+ORD10371,2025-03-01,23,Male,New York,Clothing,5,89.99
+ORD10372,2025-11-17,19,Female,New York,Clothing,4,89.99
+ORD10373,2025-02-11,64,Female,Chicago,Clothing,3,39.99
+ORD10374,2025-01-28,42,Female,Los Angeles,Home & Kitchen,5,85.0
+ORD10375,2025-06-11,44,Male,Los Angeles,Home & Kitchen,2,85.0
+ORD10376,2025-06-01,34,Female,Chicago,Electronics,3,49.99
+ORD10377,2025-10-24,41,Male,Seattle,Beauty,1,29.99
+ORD10378,2025-10-27,42,Male,Miami,Clothing,3,14.99
+ORD10379,2025-11-27,61,Female,Los Angeles,Home & Kitchen,1,150.0
+ORD10380,2025-09-20,31,Male,Houston,Home & Kitchen,1,24.99
+ORD10381,2025-09-22,60,Female,Houston,Clothing,5,14.99
+ORD10382,2025-06-15,41,Female,Seattle,Electronics,1,1099.99
+ORD10383,2025-11-19,40,Female,New York,Clothing,4,14.99
+ORD10384,2025-06-21,39,Female,New York,Clothing,3,89.99
+ORD10385,2025-03-25,47,Female,New York,Beauty,5,18.5
+ORD10386,2025-10-22,62,Male,Houston,Beauty,3,29.99
+ORD10387,2025-07-11,56,Male,Seattle,Beauty,1,75.0
+ORD10388,2025-04-30,50,Male,Houston,Home & Kitchen,5,12.99
+ORD10389,2025-01-15,28,Female,Chicago,Clothing,2,39.99
+ORD10390,2025-12-06,39,Female,New York,Electronics,2,1099.99
+ORD10391,2025-06-27,47,Male,Houston,Electronics,2,599.99
+ORD10392,2025-03-30,37,Male,Los Angeles,Clothing,4,39.99
+ORD10393,2025-02-16,64,Male,Seattle,Home & Kitchen,4,24.99
+ORD10394,2025-03-23,40,Male,Miami,Beauty,4,29.99
+ORD10395,2025-12-09,42,Female,Seattle,Clothing,4,19.99
+ORD10396,2025-03-07,38,Female,Los Angeles,Beauty,3,75.0
+ORD10397,2025-12-12,64,Female,Miami,Beauty,3,9.99
+ORD10398,2025-09-08,60,Female,Miami,Electronics,5,599.99
+ORD10399,2025-04-02,33,Male,Chicago,Electronics,1,49.99
+ORD10400,2025-11-27,32,Male,Los Angeles,Electronics,3,599.99
+ORD10401,2025-08-11,23,Male,Seattle,Clothing,2,14.99
+ORD10402,2025-05-26,37,Male,Houston,Electronics,4,1099.99
+ORD10403,2025-04-02,28,Male,Miami,Electronics,1,49.99
+ORD10404,2025-06-27,61,Female,Seattle,Beauty,2,9.99
+ORD10405,2025-06-13,26,Female,Houston,Beauty,4,9.99
+ORD10406,2025-12-01,60,Male,New York,Home & Kitchen,3,12.99
+ORD10407,2025-11-21,25,Female,Houston,Home & Kitchen,3,12.99
+ORD10408,2025-10-01,41,Male,Los Angeles,Beauty,1,18.5
+ORD10409,2025-03-18,18,Male,Seattle,Home & Kitchen,5,85.0
+ORD10410,2025-11-11,64,Female,Houston,Electronics,3,49.99
+ORD10411,2025-01-21,25,Female,Houston,Home & Kitchen,5,24.99
+ORD10412,2025-12-18,41,Male,Chicago,Home & Kitchen,5,24.99
+ORD10413,2025-05-17,29,Male,Houston,Electronics,3,49.99
+ORD10414,2025-06-02,58,Male,New York,Home & Kitchen,5,24.99
+ORD10415,2025-07-22,33,Male,Miami,Electronics,2,599.99
+ORD10416,2025-11-21,49,Male,Chicago,Home & Kitchen,5,12.99
+ORD10417,2025-05-05,64,Female,Miami,Beauty,1,9.99
+ORD10418,2025-06-17,41,Male,Miami,Electronics,5,49.99
+ORD10419,2025-02-10,39,Female,Seattle,Home & Kitchen,4,12.99
+ORD10420,2025-01-12,29,Non-binary,Chicago,Electronics,1,49.99
+ORD10421,2025-04-09,54,Male,Chicago,Clothing,3,19.99
+ORD10422,2025-10-21,48,Male,Houston,Home & Kitchen,3,85.0
+ORD10423,2025-09-14,60,Male,Houston,Clothing,3,89.99
+ORD10424,2025-01-03,44,Male,Houston,Clothing,3,89.99
+ORD10425,2025-08-25,56,Female,Seattle,Home & Kitchen,2,24.99
+ORD10426,2025-04-26,19,Female,Los Angeles,Electronics,5,1099.99
+ORD10427,2025-08-24,55,Male,Miami,Home & Kitchen,4,12.99
+ORD10428,2025-10-13,18,Male,Chicago,Home & Kitchen,2,12.99
+ORD10429,2025-08-25,65,Female,Miami,Clothing,3,14.99
+ORD10430,2025-07-26,20,Female,Miami,Electronics,5,49.99
+ORD10431,2025-06-26,23,Male,Miami,Home & Kitchen,3,150.0
+ORD10432,2025-06-11,46,Female,New York,Clothing,5,39.99
+ORD10433,2025-06-30,54,Male,New York,Home & Kitchen,2,12.99
+ORD10434,2025-07-12,52,Male,Miami,Electronics,4,299.99
+ORD10435,2025-04-22,31,Non-binary,Miami,Home & Kitchen,2,85.0
+ORD10436,2025-07-25,53,Male,Los Angeles,Beauty,3,75.0
+ORD10437,2025-07-05,58,Male,Seattle,Home & Kitchen,2,12.99
+ORD10438,2025-07-26,49,Female,Chicago,Beauty,2,29.99
+ORD10439,2025-07-24,36,Male,Chicago,Beauty,1,29.99
+ORD10440,2025-07-16,55,Female,Houston,Beauty,1,29.99
+ORD10441,2025-11-13,32,Male,Miami,Electronics,1,49.99
+ORD10442,2025-06-16,57,Male,Miami,Beauty,3,9.99
+ORD10443,2025-01-12,65,Female,Seattle,Beauty,2,29.99
+ORD10444,2025-08-23,41,Female,Los Angeles,Clothing,2,14.99
+ORD10445,2025-06-15,26,Male,New York,Clothing,4,14.99
+ORD10446,2025-05-06,61,Female,Los Angeles,Clothing,5,14.99
+ORD10447,2025-11-25,25,Female,Chicago,Clothing,4,39.99
+ORD10448,2025-02-05,18,Female,Seattle,Beauty,4,18.5
+ORD10449,2025-02-06,44,Non-binary,Seattle,Electronics,4,299.99
+ORD10450,2025-09-04,64,Male,Houston,Electronics,4,1099.99
+ORD10451,2025-09-19,58,Female,Houston,Electronics,2,299.99
+ORD10452,2025-05-15,55,Female,New York,Clothing,4,89.99
+ORD10453,2025-12-03,39,Male,Los Angeles,Beauty,3,29.99
+ORD10454,2025-02-19,39,Female,New York,Beauty,2,18.5
+ORD10455,2025-05-14,39,Male,Houston,Home & Kitchen,3,12.99
+ORD10456,2025-10-18,35,Female,Los Angeles,Clothing,1,89.99
+ORD10457,2025-04-24,41,Female,Seattle,Home & Kitchen,2,150.0
+ORD10458,2025-10-18,58,Male,Seattle,Beauty,2,75.0
+ORD10459,2025-12-22,26,Male,Chicago,Beauty,2,75.0
+ORD10460,2025-01-15,31,Female,Los Angeles,Electronics,3,1099.99
+ORD10461,2025-09-18,65,Female,Miami,Beauty,5,18.5
+ORD10462,2025-03-29,40,Female,Miami,Home & Kitchen,4,150.0
+ORD10463,2025-09-06,59,Male,Miami,Beauty,4,29.99
+ORD10464,2025-07-14,18,Female,New York,Home & Kitchen,3,85.0
+ORD10465,2025-04-16,32,Male,Miami,Electronics,3,599.99
+ORD10466,2025-09-13,47,Female,Seattle,Electronics,2,599.99
+ORD10467,2025-07-06,60,Male,Seattle,Electronics,5,1099.99
+ORD10468,2025-02-04,35,Female,Miami,Electronics,4,299.99
+ORD10469,2025-10-18,51,Male,Chicago,Clothing,2,39.99
+ORD10470,2025-12-20,63,Female,New York,Home & Kitchen,1,150.0
+ORD10471,2025-04-08,64,Female,New York,Clothing,1,89.99
+ORD10472,2025-04-17,32,Male,Miami,Beauty,1,18.5
+ORD10473,2025-10-02,21,Male,Seattle,Electronics,4,599.99
+ORD10474,2025-03-01,46,Male,Los Angeles,Electronics,5,599.99
+ORD10475,2025-09-07,37,Female,Miami,Beauty,4,9.99
+ORD10476,2025-11-26,30,Female,Seattle,Beauty,3,9.99
+ORD10477,2025-07-28,56,Male,Seattle,Clothing,5,89.99
+ORD10478,2025-09-05,50,Male,Seattle,Home & Kitchen,5,150.0
+ORD10479,2025-05-08,39,Male,Miami,Home & Kitchen,1,12.99
+ORD10480,2025-04-04,49,Male,Miami,Beauty,2,18.5
+ORD10481,2025-04-02,22,Female,Seattle,Home & Kitchen,4,24.99
+ORD10482,2025-06-25,58,Female,Los Angeles,Clothing,2,19.99
+ORD10483,2025-04-20,37,Female,Chicago,Beauty,3,9.99
+ORD10484,2025-11-09,31,Female,Los Angeles,Home & Kitchen,2,85.0
+ORD10485,2025-07-22,28,Female,Miami,Clothing,5,89.99
+ORD10486,2025-08-31,59,Female,Houston,Home & Kitchen,3,85.0
+ORD10487,2025-08-30,37,Male,Chicago,Home & Kitchen,3,150.0
+ORD10488,2025-08-19,37,Male,Houston,Beauty,4,9.99
+ORD10489,2025-01-29,44,Male,Los Angeles,Beauty,1,75.0
+ORD10490,2025-12-27,30,Male,Seattle,Home & Kitchen,3,150.0
+ORD10491,2025-01-13,38,Male,Houston,Home & Kitchen,2,85.0
+ORD10492,2025-11-13,50,Male,Chicago,Electronics,2,299.99
+ORD10493,2025-03-24,38,Female,Seattle,Beauty,4,9.99
+ORD10494,2025-12-19,63,Female,Chicago,Beauty,1,9.99
+ORD10495,2025-01-29,58,Male,Miami,Home & Kitchen,3,12.99
+ORD10496,2025-02-26,48,Male,Seattle,Electronics,4,1099.99
+ORD10497,2025-03-19,27,Female,Miami,Clothing,4,19.99
+ORD10498,2025-05-06,38,Female,Seattle,Home & Kitchen,1,150.0
+ORD10499,2025-03-13,22,Female,Seattle,Home & Kitchen,4,150.0
+ORD10500,2025-04-20,29,Male,Los Angeles,Beauty,3,75.0
+ORD10501,2025-04-12,61,Non-binary,Chicago,Home & Kitchen,2,24.99
+ORD10502,2025-03-03,59,Male,Houston,Beauty,5,9.99
+ORD10503,2025-01-31,50,Male,Miami,Beauty,5,9.99
+ORD10504,2025-06-17,52,Female,Miami,Home & Kitchen,1,24.99
+ORD10505,2025-10-17,23,Non-binary,New York,Clothing,5,19.99
+ORD10506,2025-08-28,57,Female,Los Angeles,Electronics,3,49.99
+ORD10507,2025-08-27,46,Female,Seattle,Clothing,1,89.99
+ORD10508,2025-04-04,59,Female,Houston,Beauty,4,9.99
+ORD10509,2025-10-22,36,Male,Houston,Electronics,2,299.99
+ORD10510,2025-06-15,45,Male,Los Angeles,Home & Kitchen,2,12.99
+ORD10511,2025-10-22,40,Female,Seattle,Clothing,2,39.99
+ORD10512,2025-04-16,37,Male,New York,Electronics,5,599.99
+ORD10513,2025-06-28,22,Male,Chicago,Clothing,2,39.99
+ORD10514,2025-06-05,28,Male,Chicago,Clothing,3,39.99
+ORD10515,2025-01-14,26,Female,Houston,Electronics,1,49.99
+ORD10516,2025-08-16,65,Female,Los Angeles,Beauty,4,9.99
+ORD10517,2025-08-13,43,Male,Houston,Electronics,2,299.99
+ORD10518,2025-09-17,55,Female,New York,Clothing,1,39.99
+ORD10519,2025-09-08,65,Female,Seattle,Home & Kitchen,2,12.99
+ORD10520,2025-04-18,23,Female,Chicago,Beauty,5,75.0
+ORD10521,2025-02-27,47,Male,Houston,Beauty,1,18.5
+ORD10522,2025-07-01,41,Female,New York,Beauty,2,75.0
+ORD10523,2025-12-26,23,Female,Houston,Beauty,3,9.99
+ORD10524,2025-11-28,38,Male,Los Angeles,Clothing,2,19.99
+ORD10525,2025-09-23,27,Male,Houston,Electronics,5,299.99
+ORD10526,2025-04-18,65,Female,Chicago,Beauty,4,29.99
+ORD10527,2025-03-30,29,Female,Los Angeles,Clothing,1,89.99
+ORD10528,2025-03-25,19,Female,Chicago,Beauty,3,75.0
+ORD10529,2025-11-15,38,Male,New York,Home & Kitchen,4,24.99
+ORD10530,2025-01-18,65,Female,Houston,Electronics,5,49.99
+ORD10531,2025-09-26,28,Male,New York,Home & Kitchen,1,85.0
+ORD10532,2025-08-03,22,Male,Houston,Beauty,5,18.5
+ORD10533,2025-08-14,26,Female,Seattle,Electronics,4,1099.99
+ORD10534,2025-08-29,34,Male,Seattle,Home & Kitchen,4,24.99
+ORD10535,2025-09-10,65,Female,Miami,Clothing,2,39.99
+ORD10536,2025-09-21,26,Female,Los Angeles,Clothing,1,19.99
+ORD10537,2025-07-26,36,Female,New York,Clothing,3,39.99
+ORD10538,2025-04-05,64,Female,Chicago,Beauty,2,75.0
+ORD10539,2025-06-17,45,Male,Los Angeles,Electronics,1,49.99
+ORD10540,2025-04-12,29,Male,Seattle,Electronics,2,599.99
+ORD10541,2025-07-23,38,Male,Houston,Beauty,2,75.0
+ORD10542,2025-11-18,54,Male,Los Angeles,Beauty,5,75.0
+ORD10543,2025-08-14,25,Female,Seattle,Home & Kitchen,2,150.0
+ORD10544,2025-05-11,39,Female,Houston,Beauty,3,9.99
+ORD10545,2025-09-23,34,Male,Chicago,Beauty,5,9.99
+ORD10546,2025-03-06,24,Male,Houston,Electronics,5,299.99
+ORD10547,2025-12-31,36,Male,Chicago,Home & Kitchen,4,12.99
+ORD10548,2025-10-11,23,Non-binary,Miami,Clothing,5,14.99
+ORD10549,2025-04-10,27,Female,Los Angeles,Electronics,3,599.99
+ORD10550,2025-09-27,56,Female,Miami,Electronics,5,1099.99
+ORD10551,2025-04-28,62,Female,Miami,Clothing,2,89.99
+ORD10552,2025-02-21,61,Male,Seattle,Clothing,5,39.99
+ORD10553,2025-11-09,45,Female,Chicago,Electronics,3,49.99
+ORD10554,2025-07-19,51,Non-binary,Houston,Beauty,2,75.0
+ORD10555,2025-06-03,18,Male,Seattle,Home & Kitchen,5,85.0
+ORD10556,2025-11-01,22,Male,Houston,Clothing,4,39.99
+ORD10557,2025-03-24,33,Male,Los Angeles,Beauty,5,18.5
+ORD10558,2025-04-10,33,Female,New York,Clothing,2,89.99
+ORD10559,2025-07-25,25,Female,Miami,Clothing,4,39.99
+ORD10560,2025-03-14,61,Male,Chicago,Electronics,5,299.99
+ORD10561,2025-06-09,51,Male,Seattle,Beauty,4,29.99
+ORD10562,2025-06-02,25,Female,Miami,Beauty,1,29.99
+ORD10563,2025-06-24,35,Female,New York,Beauty,1,75.0
+ORD10564,2025-11-17,47,Male,Los Angeles,Beauty,2,75.0
+ORD10565,2025-09-25,24,Male,Seattle,Home & Kitchen,4,85.0
+ORD10566,2025-12-26,45,Male,Seattle,Electronics,3,1099.99
+ORD10567,2025-05-09,58,Female,Houston,Home & Kitchen,1,150.0
+ORD10568,2025-01-07,24,Female,Houston,Clothing,2,14.99
+ORD10569,2025-10-30,45,Female,New York,Beauty,5,18.5
+ORD10570,2025-09-23,60,Male,Miami,Electronics,5,299.99
+ORD10571,2025-02-18,25,Non-binary,Los Angeles,Home & Kitchen,4,12.99
+ORD10572,2025-01-21,40,Female,Houston,Beauty,4,9.99
+ORD10573,2025-11-18,65,Female,Seattle,Electronics,5,599.99
+ORD10574,2025-04-03,19,Female,Chicago,Electronics,4,1099.99
+ORD10575,2025-01-15,64,Female,Chicago,Home & Kitchen,3,150.0
+ORD10576,2025-05-08,35,Male,New York,Home & Kitchen,3,12.99
+ORD10577,2025-03-24,31,Female,Miami,Home & Kitchen,3,12.99
+ORD10578,2025-03-30,49,Female,Chicago,Home & Kitchen,3,85.0
+ORD10579,2025-06-06,24,Female,New York,Beauty,5,75.0
+ORD10580,2025-09-12,58,Male,Houston,Clothing,4,89.99
+ORD10581,2025-06-29,39,Female,Chicago,Clothing,3,39.99
+ORD10582,2025-01-09,25,Male,Chicago,Home & Kitchen,4,85.0
+ORD10583,2025-11-13,62,Male,New York,Electronics,3,49.99
+ORD10584,2025-03-16,63,Male,Chicago,Beauty,4,29.99
+ORD10585,2025-02-23,65,Female,Chicago,Electronics,2,1099.99
+ORD10586,2025-08-15,20,Male,Los Angeles,Home & Kitchen,4,24.99
+ORD10587,2025-04-25,62,Non-binary,Los Angeles,Clothing,2,14.99
+ORD10588,2025-03-16,18,Male,New York,Beauty,4,18.5
+ORD10589,2025-10-12,53,Non-binary,Los Angeles,Beauty,5,29.99
+ORD10590,2025-10-25,43,Female,Houston,Home & Kitchen,3,150.0
+ORD10591,2025-08-09,41,Male,Los Angeles,Home & Kitchen,1,150.0
+ORD10592,2025-12-21,26,Male,Seattle,Clothing,1,39.99
+ORD10593,2025-09-17,63,Female,Chicago,Electronics,3,599.99
+ORD10594,2025-12-26,59,Non-binary,Los Angeles,Beauty,5,75.0
+ORD10595,2025-01-28,47,Female,Houston,Beauty,2,9.99
+ORD10596,2025-01-12,53,Male,Seattle,Electronics,4,1099.99
+ORD10597,2025-12-28,27,Male,Chicago,Electronics,5,1099.99
+ORD10598,2025-05-10,64,Male,Miami,Beauty,2,18.5
+ORD10599,2025-07-22,31,Female,Chicago,Home & Kitchen,2,150.0
+ORD10600,2025-10-19,50,Female,Los Angeles,Home & Kitchen,5,24.99
+ORD10601,2025-01-28,63,Female,Miami,Electronics,5,299.99
+ORD10602,2025-02-02,51,Male,Los Angeles,Clothing,5,39.99
+ORD10603,2025-04-02,29,Male,Houston,Electronics,1,1099.99
+ORD10604,2025-02-18,43,Female,Seattle,Beauty,4,18.5
+ORD10605,2025-12-23,48,Male,Chicago,Clothing,3,19.99
+ORD10606,2025-07-01,29,Female,Chicago,Beauty,2,9.99
+ORD10607,2025-05-14,43,Male,Chicago,Electronics,4,1099.99
+ORD10608,2025-02-18,51,Male,Miami,Electronics,3,299.99
+ORD10609,2025-02-18,28,Male,Miami,Electronics,3,299.99
+ORD10610,2025-07-16,37,Male,Miami,Home & Kitchen,2,24.99
+ORD10611,2025-04-07,58,Female,Los Angeles,Clothing,1,89.99
+ORD10612,2025-12-16,27,Female,Miami,Clothing,2,14.99
+ORD10613,2025-09-17,27,Female,Houston,Electronics,5,299.99
+ORD10614,2025-03-03,37,Female,New York,Home & Kitchen,5,85.0
+ORD10615,2025-09-23,28,Female,Houston,Clothing,5,39.99
+ORD10616,2025-06-22,47,Female,Miami,Beauty,1,18.5
+ORD10617,2025-12-09,53,Male,Los Angeles,Home & Kitchen,2,85.0
+ORD10618,2025-09-09,30,Female,New York,Home & Kitchen,4,24.99
+ORD10619,2025-12-04,63,Female,Miami,Electronics,3,299.99
+ORD10620,2025-09-27,54,Female,Miami,Beauty,3,29.99
+ORD10621,2025-06-14,26,Male,Los Angeles,Home & Kitchen,4,12.99
+ORD10622,2025-08-11,42,Male,New York,Beauty,3,9.99
+ORD10623,2025-10-15,48,Female,Chicago,Beauty,1,75.0
+ORD10624,2025-09-28,20,Male,New York,Home & Kitchen,3,85.0
+ORD10625,2025-01-25,52,Male,Chicago,Beauty,3,29.99
+ORD10626,2025-10-03,21,Female,Seattle,Beauty,5,29.99
+ORD10627,2025-07-09,61,Female,Los Angeles,Electronics,2,49.99
+ORD10628,2025-04-24,63,Male,Seattle,Clothing,2,14.99
+ORD10629,2025-10-20,58,Female,New York,Beauty,1,29.99
+ORD10630,2025-05-29,18,Female,Seattle,Home & Kitchen,4,85.0
+ORD10631,2025-04-27,41,Female,Houston,Electronics,2,599.99
+ORD10632,2025-11-03,33,Female,Chicago,Beauty,2,75.0
+ORD10633,2025-12-01,65,Female,Houston,Electronics,4,49.99
+ORD10634,2025-07-13,35,Female,Los Angeles,Beauty,5,75.0
+ORD10635,2025-01-06,58,Female,New York,Beauty,2,29.99
+ORD10636,2025-02-06,58,Male,Los Angeles,Beauty,2,9.99
+ORD10637,2025-10-02,38,Male,Seattle,Home & Kitchen,3,12.99
+ORD10638,2025-10-02,36,Male,Miami,Home & Kitchen,1,24.99
+ORD10639,2025-07-22,30,Non-binary,Miami,Beauty,2,29.99
+ORD10640,2025-09-23,20,Female,New York,Electronics,1,599.99
+ORD10641,2025-07-18,29,Male,Seattle,Electronics,4,599.99
+ORD10642,2025-11-12,41,Male,Los Angeles,Beauty,5,9.99
+ORD10643,2025-04-07,31,Female,New York,Electronics,3,599.99
+ORD10644,2025-05-09,29,Male,Los Angeles,Electronics,4,49.99
+ORD10645,2025-03-20,36,Female,Los Angeles,Clothing,3,39.99
+ORD10646,2025-12-03,64,Male,Houston,Electronics,5,599.99
+ORD10647,2025-09-28,36,Female,Los Angeles,Home & Kitchen,1,24.99
+ORD10648,2025-12-17,22,Male,Miami,Electronics,3,599.99
+ORD10649,2025-07-09,20,Male,New York,Clothing,4,19.99
+ORD10650,2025-01-02,54,Male,Houston,Electronics,1,599.99
+ORD10651,2025-10-16,52,Male,Seattle,Beauty,3,18.5
+ORD10652,2025-12-18,57,Male,Seattle,Clothing,5,14.99
+ORD10653,2025-05-09,40,Non-binary,Seattle,Beauty,2,18.5
+ORD10654,2025-08-21,52,Female,Los Angeles,Clothing,2,89.99
+ORD10655,2025-07-18,34,Female,Chicago,Electronics,3,49.99
+ORD10656,2025-03-15,20,Female,Seattle,Clothing,2,14.99
+ORD10657,2025-11-17,40,Male,Houston,Beauty,4,18.5
+ORD10658,2025-08-20,46,Non-binary,Houston,Home & Kitchen,3,150.0
+ORD10659,2025-12-07,43,Male,Miami,Clothing,2,39.99
+ORD10660,2025-12-31,30,Female,Seattle,Home & Kitchen,5,12.99
+ORD10661,2025-07-29,41,Female,Los Angeles,Beauty,4,29.99
+ORD10662,2025-02-25,52,Female,Chicago,Beauty,2,9.99
+ORD10663,2025-04-22,39,Female,Los Angeles,Beauty,2,18.5
+ORD10664,2025-08-15,19,Female,Houston,Clothing,5,89.99
+ORD10665,2025-03-21,59,Male,Los Angeles,Clothing,3,14.99
+ORD10666,2025-08-28,33,Female,Los Angeles,Beauty,5,75.0
+ORD10667,2025-11-10,51,Female,New York,Electronics,1,299.99
+ORD10668,2025-01-11,18,Female,New York,Home & Kitchen,3,24.99
+ORD10669,2025-07-02,30,Female,Los Angeles,Home & Kitchen,3,24.99
+ORD10670,2025-11-16,38,Female,Houston,Beauty,2,75.0
+ORD10671,2025-05-29,37,Male,Miami,Clothing,2,39.99
+ORD10672,2025-08-01,25,Female,Miami,Beauty,5,29.99
+ORD10673,2025-10-10,58,Female,Chicago,Clothing,2,19.99
+ORD10674,2025-08-16,24,Female,Los Angeles,Beauty,4,18.5
+ORD10675,2025-09-02,28,Female,Miami,Home & Kitchen,5,12.99
+ORD10676,2025-10-20,29,Male,New York,Beauty,3,75.0
+ORD10677,2025-02-13,41,Male,Los Angeles,Home & Kitchen,2,12.99
+ORD10678,2025-02-26,60,Male,Seattle,Home & Kitchen,1,150.0
+ORD10679,2025-07-01,56,Non-binary,Houston,Electronics,2,49.99
+ORD10680,2025-07-06,34,Male,Chicago,Electronics,3,49.99
+ORD10681,2025-03-27,21,Female,Seattle,Home & Kitchen,4,150.0
+ORD10682,2025-08-10,39,Male,Seattle,Beauty,3,9.99
+ORD10683,2025-10-10,20,Male,Miami,Electronics,3,299.99
+ORD10684,2025-07-14,30,Female,Houston,Beauty,3,9.99
+ORD10685,2025-12-23,42,Male,Miami,Beauty,3,18.5
+ORD10686,2025-03-09,40,Female,Miami,Clothing,3,14.99
+ORD10687,2025-05-17,23,Female,Seattle,Electronics,5,1099.99
+ORD10688,2025-02-28,19,Female,New York,Clothing,2,19.99
+ORD10689,2025-07-11,22,Male,Los Angeles,Electronics,1,299.99
+ORD10690,2025-01-07,65,Female,Miami,Electronics,5,599.99
+ORD10691,2025-11-17,47,Female,Chicago,Electronics,1,299.99
+ORD10692,2025-12-27,26,Male,Seattle,Electronics,1,599.99
+ORD10693,2025-02-16,18,Male,Seattle,Clothing,1,39.99
+ORD10694,2025-02-10,42,Male,Miami,Clothing,2,14.99
+ORD10695,2025-12-29,49,Female,Los Angeles,Beauty,5,75.0
+ORD10696,2025-02-01,46,Male,New York,Electronics,2,599.99
+ORD10697,2025-05-15,27,Female,Miami,Clothing,1,19.99
+ORD10698,2025-04-07,29,Female,Los Angeles,Clothing,5,14.99
+ORD10699,2025-06-01,56,Male,Seattle,Home & Kitchen,4,85.0
+ORD10700,2025-05-09,40,Female,Miami,Electronics,3,1099.99
+ORD10701,2025-03-24,22,Male,Houston,Home & Kitchen,5,24.99
+ORD10702,2025-08-09,23,Female,Seattle,Beauty,1,9.99
+ORD10703,2025-06-13,55,Female,Chicago,Electronics,3,1099.99
+ORD10704,2025-08-19,40,Female,Houston,Home & Kitchen,3,12.99
+ORD10705,2025-09-08,38,Female,Seattle,Clothing,5,39.99
+ORD10706,2025-03-29,20,Female,Houston,Beauty,3,18.5
+ORD10707,2025-07-26,47,Female,Houston,Beauty,2,29.99
+ORD10708,2025-07-17,44,Female,Los Angeles,Home & Kitchen,2,12.99
+ORD10709,2025-07-24,41,Male,Seattle,Clothing,5,39.99
+ORD10710,2025-04-05,31,Male,Houston,Beauty,3,29.99
+ORD10711,2025-06-22,30,Male,Houston,Clothing,5,89.99
+ORD10712,2025-05-23,32,Male,Miami,Beauty,4,18.5
+ORD10713,2025-03-23,49,Non-binary,New York,Home & Kitchen,1,24.99
+ORD10714,2025-06-15,63,Female,Chicago,Clothing,5,39.99
+ORD10715,2025-09-11,31,Male,New York,Home & Kitchen,3,85.0
+ORD10716,2025-11-19,37,Female,Houston,Electronics,5,599.99
+ORD10717,2025-05-25,39,Female,Seattle,Clothing,5,89.99
+ORD10718,2025-08-31,22,Male,Chicago,Beauty,2,29.99
+ORD10719,2025-06-17,62,Male,Chicago,Beauty,5,75.0
+ORD10720,2025-06-24,54,Female,Seattle,Clothing,3,39.99
+ORD10721,2025-11-20,54,Non-binary,Los Angeles,Clothing,4,39.99
+ORD10722,2025-10-16,48,Female,Chicago,Electronics,2,49.99
+ORD10723,2025-11-16,38,Male,Houston,Beauty,1,75.0
+ORD10724,2025-08-19,42,Female,Chicago,Clothing,1,89.99
+ORD10725,2025-08-31,33,Male,New York,Home & Kitchen,5,150.0
+ORD10726,2025-09-05,53,Male,Chicago,Home & Kitchen,3,12.99
+ORD10727,2025-11-06,52,Male,Seattle,Clothing,3,19.99
+ORD10728,2025-02-01,65,Female,Miami,Home & Kitchen,4,85.0
+ORD10729,2025-08-05,62,Female,New York,Home & Kitchen,2,150.0
+ORD10730,2025-03-15,36,Male,Seattle,Beauty,3,9.99
+ORD10731,2025-08-27,27,Male,Houston,Clothing,3,14.99
+ORD10732,2025-02-25,35,Female,Los Angeles,Beauty,2,75.0
+ORD10733,2025-10-28,26,Male,New York,Electronics,3,299.99
+ORD10734,2025-10-10,48,Male,Chicago,Beauty,4,9.99
+ORD10735,2025-11-27,38,Male,Chicago,Electronics,3,1099.99
+ORD10736,2025-10-17,54,Male,Miami,Electronics,4,599.99
+ORD10737,2025-02-02,22,Male,New York,Clothing,1,39.99
+ORD10738,2025-07-04,40,Male,Houston,Home & Kitchen,4,24.99
+ORD10739,2025-07-25,52,Male,Houston,Beauty,5,29.99
+ORD10740,2025-02-15,31,Male,New York,Home & Kitchen,2,85.0
+ORD10741,2025-01-29,59,Female,New York,Electronics,4,599.99
+ORD10742,2025-01-22,20,Male,Los Angeles,Clothing,5,39.99
+ORD10743,2025-06-13,38,Male,Seattle,Beauty,5,9.99
+ORD10744,2025-05-29,49,Male,Seattle,Beauty,1,9.99
+ORD10745,2025-04-13,55,Male,Los Angeles,Beauty,3,9.99
+ORD10746,2025-12-26,23,Female,Chicago,Clothing,2,14.99
+ORD10747,2025-03-19,52,Male,Seattle,Home & Kitchen,5,150.0
+ORD10748,2025-07-11,50,Male,Los Angeles,Home & Kitchen,2,150.0
+ORD10749,2025-06-17,34,Male,Seattle,Home & Kitchen,1,12.99
+ORD10750,2025-08-17,56,Non-binary,Seattle,Beauty,2,29.99
+ORD10751,2025-02-27,20,Male,New York,Clothing,5,39.99
+ORD10752,2025-06-02,62,Female,Miami,Home & Kitchen,4,150.0
+ORD10753,2025-01-28,59,Female,Miami,Home & Kitchen,5,85.0
+ORD10754,2025-01-13,37,Male,Los Angeles,Home & Kitchen,4,85.0
+ORD10755,2025-07-18,64,Male,Houston,Clothing,4,14.99
+ORD10756,2025-10-15,56,Male,Seattle,Clothing,5,19.99
+ORD10757,2025-02-24,18,Female,Miami,Electronics,3,299.99
+ORD10758,2025-01-01,37,Male,Seattle,Clothing,1,19.99
+ORD10759,2025-07-08,31,Female,Houston,Home & Kitchen,3,24.99
+ORD10760,2025-08-02,59,Male,New York,Electronics,2,1099.99
+ORD10761,2025-05-15,47,Female,Los Angeles,Electronics,4,299.99
+ORD10762,2025-03-31,18,Male,Seattle,Clothing,5,14.99
+ORD10763,2025-12-22,53,Male,New York,Beauty,2,9.99
+ORD10764,2025-04-21,22,Male,Houston,Electronics,4,299.99
+ORD10765,2025-08-10,47,Male,New York,Electronics,3,299.99
+ORD10766,2025-12-30,36,Female,Los Angeles,Home & Kitchen,3,24.99
+ORD10767,2025-04-07,33,Female,New York,Electronics,5,49.99
+ORD10768,2025-12-26,49,Female,Seattle,Electronics,3,1099.99
+ORD10769,2025-02-15,56,Male,Houston,Clothing,3,89.99
+ORD10770,2025-10-10,52,Male,Seattle,Home & Kitchen,2,12.99
+ORD10771,2025-10-25,43,Male,Chicago,Home & Kitchen,4,85.0
+ORD10772,2025-12-12,52,Male,Houston,Electronics,2,1099.99
+ORD10773,2025-06-20,40,Female,Houston,Clothing,3,19.99
+ORD10774,2025-09-17,58,Male,Chicago,Clothing,2,39.99
+ORD10775,2025-12-21,43,Male,Houston,Electronics,5,299.99
+ORD10776,2025-02-23,54,Male,Miami,Clothing,3,39.99
+ORD10777,2025-09-08,25,Male,Chicago,Beauty,2,18.5
+ORD10778,2025-10-23,40,Female,Seattle,Electronics,4,599.99
+ORD10779,2025-03-21,62,Female,Los Angeles,Electronics,4,299.99
+ORD10780,2025-03-15,22,Female,Chicago,Clothing,3,14.99
+ORD10781,2025-04-18,52,Female,Los Angeles,Electronics,1,299.99
+ORD10782,2025-06-01,25,Male,Seattle,Electronics,3,299.99
+ORD10783,2025-08-20,25,Male,Chicago,Beauty,5,9.99
+ORD10784,2025-06-03,39,Male,Los Angeles,Home & Kitchen,5,12.99
+ORD10785,2025-10-29,48,Female,Miami,Electronics,1,49.99
+ORD10786,2025-09-13,38,Male,Chicago,Beauty,5,18.5
+ORD10787,2025-02-20,45,Female,Miami,Home & Kitchen,1,12.99
+ORD10788,2025-07-14,20,Non-binary,New York,Beauty,5,75.0
+ORD10789,2025-02-17,23,Male,Seattle,Electronics,4,49.99
+ORD10790,2025-06-22,33,Female,Houston,Electronics,3,1099.99
+ORD10791,2025-10-10,63,Female,Los Angeles,Beauty,1,9.99
+ORD10792,2025-12-17,26,Female,Seattle,Electronics,1,49.99
+ORD10793,2025-09-15,29,Female,Seattle,Beauty,3,9.99
+ORD10794,2025-10-27,25,Female,Houston,Clothing,3,14.99
+ORD10795,2025-03-25,20,Male,Chicago,Beauty,2,9.99
+ORD10796,2025-02-09,30,Female,Los Angeles,Electronics,2,49.99
+ORD10797,2025-07-12,20,Male,Los Angeles,Home & Kitchen,2,12.99
+ORD10798,2026-01-01,46,Female,New York,Electronics,2,599.99
+ORD10799,2025-03-09,65,Non-binary,Miami,Electronics,4,49.99
+ORD10800,2025-07-07,62,Male,Seattle,Home & Kitchen,4,24.99
+ORD10801,2025-08-31,20,Male,Miami,Beauty,1,9.99
+ORD10802,2025-02-14,34,Female,Seattle,Home & Kitchen,4,12.99
+ORD10803,2025-09-17,33,Female,Los Angeles,Electronics,2,299.99
+ORD10804,2025-02-14,54,Male,Los Angeles,Beauty,5,75.0
+ORD10805,2025-05-15,48,Male,Seattle,Clothing,1,14.99
+ORD10806,2025-10-14,20,Male,Los Angeles,Home & Kitchen,4,85.0
+ORD10807,2025-01-06,41,Male,New York,Electronics,5,1099.99
+ORD10808,2025-09-29,18,Male,Los Angeles,Home & Kitchen,4,85.0
+ORD10809,2025-04-20,30,Female,Houston,Beauty,1,29.99
+ORD10810,2025-03-30,42,Female,Seattle,Electronics,2,599.99
+ORD10811,2025-09-19,27,Female,New York,Beauty,5,9.99
+ORD10812,2025-03-26,33,Female,Houston,Home & Kitchen,3,85.0
+ORD10813,2025-07-28,21,Female,New York,Home & Kitchen,1,12.99
+ORD10814,2025-04-09,60,Female,Chicago,Beauty,5,18.5
+ORD10815,2025-04-26,65,Female,Houston,Beauty,2,29.99
+ORD10816,2025-11-03,51,Male,New York,Beauty,4,9.99
+ORD10817,2025-02-03,53,Male,Los Angeles,Electronics,3,1099.99
+ORD10818,2025-07-21,35,Female,Chicago,Home & Kitchen,3,150.0
+ORD10819,2025-08-29,50,Female,Seattle,Clothing,3,14.99
+ORD10820,2025-02-16,62,Female,Chicago,Electronics,3,1099.99
+ORD10821,2025-05-19,36,Female,Los Angeles,Home & Kitchen,2,150.0
+ORD10822,2025-10-17,30,Male,Chicago,Clothing,5,89.99
+ORD10823,2025-12-13,44,Male,Miami,Beauty,5,29.99
+ORD10824,2025-03-13,62,Male,Seattle,Home & Kitchen,2,150.0
+ORD10825,2025-08-25,55,Female,New York,Home & Kitchen,2,85.0
+ORD10826,2025-11-03,58,Female,Los Angeles,Beauty,2,75.0
+ORD10827,2025-07-20,48,Female,Miami,Beauty,2,75.0
+ORD10828,2025-05-11,56,Male,New York,Beauty,1,18.5
+ORD10829,2025-02-04,30,Female,Chicago,Beauty,5,18.5
+ORD10830,2025-10-26,35,Female,Houston,Clothing,1,89.99
+ORD10831,2025-08-07,58,Non-binary,Miami,Electronics,4,49.99
+ORD10832,2025-07-18,38,Male,Los Angeles,Electronics,1,1099.99
+ORD10833,2025-01-22,22,Male,Miami,Home & Kitchen,1,85.0
+ORD10834,2025-12-18,45,Male,Seattle,Electronics,1,299.99
+ORD10835,2025-06-22,57,Female,Chicago,Beauty,2,29.99
+ORD10836,2025-04-23,57,Female,Chicago,Home & Kitchen,2,85.0
+ORD10837,2025-01-12,53,Female,Los Angeles,Clothing,2,14.99
+ORD10838,2025-10-05,57,Male,Los Angeles,Electronics,4,1099.99
+ORD10839,2025-03-05,24,Male,Houston,Clothing,4,39.99
+ORD10840,2025-11-09,28,Female,Los Angeles,Home & Kitchen,1,24.99
+ORD10841,2025-05-03,60,Male,Miami,Beauty,2,18.5
+ORD10842,2025-04-29,24,Female,Houston,Beauty,2,18.5
+ORD10843,2025-07-16,57,Female,New York,Home & Kitchen,4,85.0
+ORD10844,2025-08-12,51,Male,New York,Beauty,4,18.5
+ORD10845,2025-11-07,31,Male,Seattle,Electronics,2,49.99
+ORD10846,2025-07-26,31,Male,Chicago,Beauty,2,75.0
+ORD10847,2025-05-29,32,Male,Houston,Electronics,1,599.99
+ORD10848,2025-08-20,63,Female,Houston,Home & Kitchen,4,150.0
+ORD10849,2025-01-11,49,Male,Houston,Beauty,4,9.99
+ORD10850,2025-05-11,40,Male,Chicago,Home & Kitchen,2,12.99
+ORD10851,2025-03-28,32,Female,Seattle,Clothing,4,19.99
+ORD10852,2025-07-06,21,Female,New York,Clothing,5,19.99
+ORD10853,2025-12-23,53,Male,New York,Home & Kitchen,2,12.99
+ORD10854,2025-05-31,27,Female,Chicago,Clothing,4,39.99
+ORD10855,2025-06-09,28,Female,Los Angeles,Electronics,5,299.99
+ORD10856,2025-12-02,65,Male,Miami,Beauty,2,18.5
+ORD10857,2025-05-01,19,Female,Los Angeles,Electronics,1,299.99
+ORD10858,2025-05-18,29,Female,Houston,Home & Kitchen,2,85.0
+ORD10859,2025-10-01,29,Male,New York,Home & Kitchen,3,85.0
+ORD10860,2025-09-20,19,Female,New York,Beauty,2,29.99
+ORD10861,2025-01-25,48,Male,Los Angeles,Clothing,5,89.99
+ORD10862,2025-05-23,47,Male,Los Angeles,Electronics,2,599.99
+ORD10863,2025-11-24,56,Female,New York,Beauty,1,29.99
+ORD10864,2025-05-28,47,Female,Houston,Beauty,5,18.5
+ORD10865,2025-08-27,59,Female,Chicago,Beauty,5,75.0
+ORD10866,2025-07-28,28,Female,Houston,Clothing,2,19.99
+ORD10867,2025-02-07,56,Non-binary,Chicago,Electronics,4,49.99
+ORD10868,2025-07-12,37,Male,Chicago,Beauty,1,29.99
+ORD10869,2025-04-21,45,Female,Los Angeles,Beauty,3,29.99
+ORD10870,2025-07-22,33,Male,Los Angeles,Beauty,4,75.0
+ORD10871,2025-07-24,47,Female,Chicago,Clothing,2,14.99
+ORD10872,2025-08-01,21,Male,Los Angeles,Electronics,3,1099.99
+ORD10873,2025-01-28,40,Female,Houston,Beauty,5,9.99
+ORD10874,2025-05-31,40,Female,Miami,Beauty,4,9.99
+ORD10875,2025-02-04,40,Male,Chicago,Clothing,1,19.99
+ORD10876,2025-03-16,65,Female,Chicago,Electronics,5,299.99
+ORD10877,2025-04-22,58,Female,New York,Beauty,3,18.5
+ORD10878,2025-11-10,47,Male,Chicago,Home & Kitchen,1,150.0
+ORD10879,2025-09-22,55,Male,Houston,Beauty,5,18.5
+ORD10880,2025-01-19,60,Female,Seattle,Electronics,4,599.99
+ORD10881,2025-06-19,60,Female,Seattle,Home & Kitchen,2,85.0
+ORD10882,2025-04-11,23,Female,Chicago,Beauty,1,29.99
+ORD10883,2025-01-23,37,Male,Los Angeles,Clothing,5,14.99
+ORD10884,2025-04-10,44,Female,Los Angeles,Beauty,2,75.0
+ORD10885,2025-01-01,22,Male,New York,Home & Kitchen,1,12.99
+ORD10886,2025-04-23,47,Female,Los Angeles,Beauty,1,9.99
+ORD10887,2025-12-09,47,Female,Chicago,Home & Kitchen,3,12.99
+ORD10888,2025-10-23,53,Female,Seattle,Home & Kitchen,5,150.0
+ORD10889,2025-03-21,60,Female,Seattle,Home & Kitchen,2,85.0
+ORD10890,2025-01-12,45,Female,Chicago,Home & Kitchen,4,12.99
+ORD10891,2025-01-27,55,Male,Chicago,Electronics,5,599.99
+ORD10892,2025-04-25,32,Female,Los Angeles,Beauty,1,29.99
+ORD10893,2025-12-24,52,Female,Houston,Beauty,5,18.5
+ORD10894,2025-06-19,37,Male,Los Angeles,Beauty,3,9.99
+ORD10895,2025-01-30,45,Male,Houston,Clothing,4,14.99
+ORD10896,2025-01-16,39,Female,New York,Home & Kitchen,4,85.0
+ORD10897,2025-09-09,43,Female,Houston,Beauty,3,29.99
+ORD10898,2025-05-05,57,Female,Chicago,Clothing,5,89.99
+ORD10899,2025-07-12,23,Male,New York,Electronics,5,599.99
+ORD10900,2025-08-08,49,Female,Seattle,Clothing,1,19.99
+ORD10901,2025-08-30,29,Male,Chicago,Home & Kitchen,5,150.0
+ORD10902,2025-02-14,20,Male,Chicago,Home & Kitchen,1,24.99
+ORD10903,2025-10-26,23,Non-binary,Miami,Electronics,2,599.99
+ORD10904,2025-07-20,49,Male,Miami,Home & Kitchen,5,24.99
+ORD10905,2025-05-26,26,Male,Miami,Home & Kitchen,5,85.0
+ORD10906,2025-02-19,49,Female,Seattle,Home & Kitchen,4,24.99
+ORD10907,2025-06-23,60,Male,Houston,Beauty,5,75.0
+ORD10908,2025-06-06,36,Female,Houston,Beauty,3,29.99
+ORD10909,2025-12-08,38,Male,Houston,Clothing,1,39.99
+ORD10910,2025-02-10,21,Female,New York,Clothing,4,19.99
+ORD10911,2025-03-06,27,Female,Chicago,Home & Kitchen,5,150.0
+ORD10912,2025-05-03,63,Female,Houston,Electronics,2,1099.99
+ORD10913,2025-08-31,59,Male,Los Angeles,Beauty,3,29.99
+ORD10914,2025-02-03,21,Male,Chicago,Beauty,4,29.99
+ORD10915,2025-08-26,60,Non-binary,Seattle,Home & Kitchen,2,12.99
+ORD10916,2025-06-17,65,Non-binary,Houston,Home & Kitchen,1,85.0
+ORD10917,2025-03-26,34,Male,Houston,Home & Kitchen,1,85.0
+ORD10918,2025-03-13,33,Female,Houston,Home & Kitchen,2,85.0
+ORD10919,2025-08-02,20,Female,Seattle,Home & Kitchen,5,150.0
+ORD10920,2025-07-10,39,Male,Houston,Clothing,2,39.99
+ORD10921,2025-06-20,61,Female,Seattle,Home & Kitchen,5,12.99
+ORD10922,2025-10-30,57,Female,Los Angeles,Beauty,4,9.99
+ORD10923,2025-10-30,53,Male,Houston,Electronics,3,1099.99
+ORD10924,2025-01-10,44,Female,New York,Beauty,4,18.5
+ORD10925,2025-11-08,54,Male,Chicago,Clothing,3,14.99
+ORD10926,2025-06-03,59,Female,Los Angeles,Home & Kitchen,3,12.99
+ORD10927,2025-01-03,51,Male,Los Angeles,Beauty,4,29.99
+ORD10928,2025-01-02,45,Male,New York,Home & Kitchen,1,12.99
+ORD10929,2025-09-14,64,Female,Seattle,Home & Kitchen,4,24.99
+ORD10930,2025-10-25,31,Female,Miami,Home & Kitchen,2,24.99
+ORD10931,2025-07-19,53,Female,Los Angeles,Clothing,4,19.99
+ORD10932,2025-02-10,39,Female,Houston,Electronics,2,299.99
+ORD10933,2025-05-13,28,Female,Seattle,Home & Kitchen,2,12.99
+ORD10934,2025-08-07,31,Female,Chicago,Electronics,3,1099.99
+ORD10935,2025-10-05,62,Female,New York,Electronics,1,599.99
+ORD10936,2025-01-02,33,Male,Chicago,Clothing,4,19.99
+ORD10937,2025-06-22,25,Female,Miami,Beauty,4,9.99
+ORD10938,2025-12-09,57,Male,New York,Home & Kitchen,3,24.99
+ORD10939,2025-04-01,42,Female,Miami,Home & Kitchen,5,24.99
+ORD10940,2025-02-14,22,Male,Chicago,Clothing,4,39.99
+ORD10941,2025-11-20,40,Male,Houston,Beauty,5,9.99
+ORD10942,2025-07-26,31,Male,Miami,Beauty,2,9.99
+ORD10943,2025-12-03,49,Female,Houston,Beauty,3,75.0
+ORD10944,2025-04-12,20,Male,Los Angeles,Electronics,1,1099.99
+ORD10945,2025-12-07,41,Female,Houston,Electronics,4,1099.99
+ORD10946,2025-02-13,26,Female,Miami,Electronics,4,599.99
+ORD10947,2025-09-11,53,Non-binary,Seattle,Home & Kitchen,5,24.99
+ORD10948,2025-01-17,58,Male,Chicago,Beauty,1,75.0
+ORD10949,2025-02-24,21,Female,Seattle,Clothing,4,89.99
+ORD10950,2025-03-20,35,Male,Houston,Electronics,1,1099.99
+ORD10951,2025-09-13,37,Female,Houston,Electronics,3,299.99
+ORD10952,2025-06-17,29,Female,Los Angeles,Electronics,1,1099.99
+ORD10953,2025-02-18,34,Female,Chicago,Electronics,5,599.99
+ORD10954,2025-04-19,55,Female,Los Angeles,Electronics,3,1099.99
+ORD10955,2025-10-09,52,Female,New York,Home & Kitchen,1,150.0
+ORD10956,2025-07-26,20,Male,Houston,Electronics,3,1099.99
+ORD10957,2025-01-27,26,Male,Miami,Electronics,4,299.99
+ORD10958,2025-01-22,48,Female,Houston,Electronics,2,1099.99
+ORD10959,2025-10-30,53,Female,Los Angeles,Electronics,2,1099.99
+ORD10960,2025-04-05,59,Female,Seattle,Electronics,4,299.99
+ORD10961,2025-04-22,64,Female,Los Angeles,Clothing,1,14.99
+ORD10962,2025-12-15,51,Female,Miami,Clothing,5,14.99
+ORD10963,2025-05-02,21,Male,Miami,Beauty,5,29.99
+ORD10964,2025-05-30,40,Male,Miami,Beauty,3,75.0
+ORD10965,2025-05-08,57,Female,New York,Beauty,5,75.0
+ORD10966,2025-09-12,18,Non-binary,Houston,Clothing,2,89.99
+ORD10967,2025-10-23,29,Female,Miami,Electronics,2,599.99
+ORD10968,2025-12-31,20,Male,Los Angeles,Electronics,4,299.99
+ORD10969,2025-03-10,31,Male,New York,Electronics,1,599.99
+ORD10970,2025-12-23,18,Male,Chicago,Clothing,2,14.99
+ORD10971,2025-03-17,64,Female,New York,Home & Kitchen,4,150.0
+ORD10972,2025-07-13,60,Female,Chicago,Beauty,2,29.99
+ORD10973,2025-04-16,42,Male,Seattle,Clothing,4,14.99
+ORD10974,2025-05-21,45,Male,New York,Beauty,2,18.5
+ORD10975,2025-02-01,21,Female,Miami,Home & Kitchen,4,85.0
+ORD10976,2025-02-26,36,Male,Chicago,Clothing,1,14.99
+ORD10977,2025-08-31,51,Male,Houston,Home & Kitchen,2,150.0
+ORD10978,2025-08-19,30,Female,Chicago,Beauty,3,18.5
+ORD10979,2025-03-24,48,Male,Los Angeles,Electronics,4,599.99
+ORD10980,2025-07-16,32,Non-binary,Miami,Clothing,3,19.99
+ORD10981,2025-07-09,51,Male,New York,Home & Kitchen,4,150.0
+ORD10982,2025-01-11,22,Female,New York,Clothing,3,89.99
+ORD10983,2025-05-06,60,Female,Miami,Clothing,5,14.99
+ORD10984,2025-01-02,27,Non-binary,Chicago,Beauty,1,75.0
+ORD10985,2025-09-04,30,Male,Seattle,Home & Kitchen,3,12.99
+ORD10986,2025-12-23,35,Female,Seattle,Beauty,1,75.0
+ORD10987,2025-07-14,48,Female,Los Angeles,Home & Kitchen,3,24.99
+ORD10988,2025-07-02,48,Female,Miami,Home & Kitchen,2,12.99
+ORD10989,2025-08-09,53,Male,New York,Electronics,2,599.99
+ORD10990,2025-07-30,20,Male,Houston,Electronics,5,299.99
+ORD10991,2025-08-14,63,Male,Seattle,Clothing,3,39.99
+ORD10992,2025-02-19,20,Male,Miami,Beauty,3,9.99
+ORD10993,2025-11-26,55,Female,Los Angeles,Electronics,2,1099.99
+ORD10994,2025-11-10,25,Male,Chicago,Clothing,4,19.99
+ORD10995,2025-12-19,35,Female,Seattle,Electronics,2,49.99
+ORD10996,2025-07-30,39,Male,Miami,Clothing,1,89.99
+ORD10997,2025-08-07,62,Male,Chicago,Beauty,1,29.99
+ORD10998,2025-02-19,58,Female,Seattle,Home & Kitchen,2,85.0
+ORD10999,2025-03-22,32,Female,Seattle,Clothing,2,39.99
+ORD11000,2025-04-12,26,Male,New York,Beauty,5,29.99
+ORD11001,2025-03-10,20,Male,Seattle,Clothing,3,89.99
+ORD11002,2025-12-18,45,Male,New York,Clothing,4,14.99
+ORD11003,2025-01-04,28,Male,Miami,Clothing,1,14.99
+ORD11004,2025-02-13,28,Male,Los Angeles,Beauty,4,9.99
+ORD11005,2025-04-28,62,Female,Chicago,Home & Kitchen,2,12.99
+ORD11006,2025-11-01,52,Female,Los Angeles,Beauty,2,18.5
+ORD11007,2025-11-09,46,Male,Chicago,Clothing,2,19.99
+ORD11008,2025-07-27,36,Male,Miami,Beauty,5,9.99
+ORD11009,2025-03-01,62,Male,New York,Clothing,5,19.99
+ORD11010,2025-09-03,43,Female,Miami,Clothing,5,19.99
+ORD11011,2025-04-03,52,Female,Los Angeles,Clothing,5,19.99
+ORD11012,2025-11-07,52,Female,Los Angeles,Electronics,5,1099.99
+ORD11013,2025-10-03,23,Male,Chicago,Clothing,1,39.99
+ORD11014,2025-08-07,49,Female,Los Angeles,Clothing,1,39.99
+ORD11015,2025-09-23,27,Female,New York,Beauty,3,9.99
+ORD11016,2025-08-24,28,Female,Chicago,Electronics,1,299.99
+ORD11017,2025-01-14,60,Female,Seattle,Electronics,3,299.99
+ORD11018,2025-03-26,65,Female,Miami,Electronics,2,299.99
+ORD11019,2025-09-04,24,Male,Miami,Home & Kitchen,5,24.99
+ORD11020,2025-01-14,64,Male,Chicago,Home & Kitchen,1,12.99
+ORD11021,2025-09-16,59,Male,Chicago,Home & Kitchen,1,85.0
+ORD11022,2025-10-07,27,Female,Miami,Beauty,4,75.0
+ORD11023,2025-09-25,22,Male,Chicago,Electronics,4,1099.99
+ORD11024,2025-08-29,20,Female,Houston,Electronics,5,299.99
+ORD11025,2025-01-26,18,Female,Los Angeles,Beauty,3,75.0
+ORD11026,2025-02-15,41,Female,Chicago,Clothing,4,14.99
+ORD11027,2025-10-16,25,Male,Los Angeles,Home & Kitchen,3,85.0
+ORD11028,2025-07-09,60,Male,Chicago,Clothing,1,14.99
+ORD11029,2025-10-10,63,Male,Houston,Electronics,2,49.99
+ORD11030,2025-05-04,44,Female,Miami,Beauty,1,75.0
+ORD11031,2025-11-16,58,Non-binary,Miami,Clothing,1,39.99
+ORD11032,2025-02-01,35,Female,New York,Beauty,5,75.0
+ORD11033,2025-03-05,53,Female,Seattle,Electronics,3,1099.99
+ORD11034,2025-11-26,29,Female,Houston,Beauty,5,29.99
+ORD11035,2025-04-10,42,Female,Los Angeles,Electronics,3,49.99
+ORD11036,2025-05-05,27,Female,Los Angeles,Beauty,2,75.0
+ORD11037,2025-09-25,54,Female,Seattle,Home & Kitchen,3,12.99
+ORD11038,2025-03-23,19,Male,Houston,Clothing,5,89.99
+ORD11039,2025-08-09,31,Male,Chicago,Electronics,1,49.99
+ORD11040,2025-07-19,36,Female,Seattle,Beauty,3,29.99
+ORD11041,2025-07-11,36,Female,New York,Clothing,2,14.99
+ORD11042,2025-12-12,41,Male,Seattle,Clothing,2,89.99
+ORD11043,2025-01-12,60,Male,Houston,Home & Kitchen,3,12.99
+ORD11044,2025-05-29,50,Female,Miami,Electronics,1,599.99
+ORD11045,2025-07-08,33,Female,Miami,Clothing,3,89.99
+ORD11046,2025-03-10,47,Female,Seattle,Electronics,1,1099.99
+ORD11047,2025-05-29,61,Female,Chicago,Clothing,2,39.99
+ORD11048,2025-04-17,40,Male,Miami,Home & Kitchen,1,150.0
+ORD11049,2025-07-22,64,Male,Los Angeles,Electronics,1,299.99
+ORD11050,2025-12-31,56,Female,Houston,Electronics,5,299.99
+ORD11051,2025-04-12,33,Female,Seattle,Clothing,2,14.99
+ORD11052,2025-03-10,43,Female,Los Angeles,Electronics,1,49.99
+ORD11053,2025-02-09,23,Female,Miami,Beauty,4,75.0
+ORD11054,2025-02-18,47,Non-binary,Houston,Electronics,2,299.99
+ORD11055,2025-04-17,19,Non-binary,New York,Electronics,4,1099.99
+ORD11056,2025-02-27,53,Male,Miami,Electronics,4,599.99
+ORD11057,2025-06-20,48,Female,Houston,Home & Kitchen,5,150.0
+ORD11058,2025-03-03,64,Female,New York,Clothing,3,14.99
+ORD11059,2025-11-09,40,Male,New York,Electronics,5,1099.99
+ORD11060,2025-02-06,25,Female,Seattle,Home & Kitchen,5,24.99
+ORD11061,2025-05-30,32,Male,Miami,Beauty,1,75.0
+ORD11062,2025-10-28,26,Female,Houston,Clothing,2,39.99
+ORD11063,2025-04-21,56,Female,Los Angeles,Electronics,4,599.99
+ORD11064,2025-05-21,39,Male,New York,Electronics,1,1099.99
+ORD11065,2025-12-23,65,Female,Chicago,Clothing,1,14.99
+ORD11066,2025-07-07,58,Male,Chicago,Clothing,4,14.99
+ORD11067,2025-08-08,45,Non-binary,Seattle,Electronics,1,299.99
+ORD11068,2025-03-07,45,Female,New York,Electronics,1,599.99
+ORD11069,2025-09-24,31,Male,Houston,Electronics,4,299.99
+ORD11070,2025-03-20,61,Female,Chicago,Clothing,2,19.99
+ORD11071,2025-04-22,34,Female,Chicago,Electronics,5,49.99
+ORD11072,2025-10-09,29,Male,New York,Beauty,4,18.5
+ORD11073,2025-10-15,59,Female,Miami,Clothing,3,89.99
+ORD11074,2025-01-21,25,Male,Miami,Electronics,2,49.99
+ORD11075,2025-06-25,37,Male,Seattle,Clothing,1,14.99
+ORD11076,2025-04-19,32,Female,Miami,Electronics,1,299.99
+ORD11077,2025-12-08,41,Female,Seattle,Electronics,5,299.99
+ORD11078,2025-07-08,54,Female,New York,Home & Kitchen,5,150.0
+ORD11079,2025-04-04,19,Female,Houston,Home & Kitchen,4,85.0
+ORD11080,2025-11-03,63,Female,Seattle,Beauty,3,18.5
+ORD11081,2025-10-10,59,Female,Miami,Beauty,5,9.99
+ORD11082,2025-06-01,27,Female,Chicago,Beauty,2,29.99
+ORD11083,2025-06-19,54,Male,New York,Home & Kitchen,2,85.0
+ORD11084,2025-04-08,24,Male,Los Angeles,Home & Kitchen,4,85.0
+ORD11085,2025-07-26,54,Female,New York,Beauty,5,9.99
+ORD11086,2025-08-31,27,Male,New York,Beauty,1,18.5
+ORD11087,2025-11-25,46,Male,Los Angeles,Home & Kitchen,5,85.0
+ORD11088,2025-11-07,32,Male,Seattle,Home & Kitchen,5,85.0
+ORD11089,2025-03-12,60,Female,New York,Home & Kitchen,3,24.99
+ORD11090,2025-07-28,60,Male,Los Angeles,Beauty,1,75.0
+ORD11091,2025-10-09,27,Male,Chicago,Clothing,3,14.99
+ORD11092,2025-02-17,53,Male,Houston,Home & Kitchen,1,12.99
+ORD11093,2025-04-21,18,Female,Houston,Electronics,2,599.99
+ORD11094,2025-09-28,38,Female,New York,Home & Kitchen,3,85.0
+ORD11095,2025-07-24,52,Male,Miami,Home & Kitchen,1,150.0
+ORD11096,2025-01-16,28,Female,Los Angeles,Electronics,5,299.99
+ORD11097,2025-08-11,56,Male,Houston,Electronics,1,299.99
+ORD11098,2025-07-18,50,Male,New York,Clothing,1,89.99
+ORD11099,2025-01-25,22,Male,New York,Home & Kitchen,3,24.99
+ORD11100,2025-11-19,56,Male,Seattle,Home & Kitchen,4,24.99
+ORD11101,2025-07-28,29,Female,Miami,Clothing,4,14.99
+ORD11102,2025-11-18,27,Male,Chicago,Clothing,3,89.99
+ORD11103,2025-01-09,49,Male,Miami,Home & Kitchen,2,12.99
+ORD11104,2025-01-30,63,Female,Los Angeles,Beauty,2,18.5
+ORD11105,2025-11-02,26,Male,Miami,Electronics,4,49.99
+ORD11106,2025-07-16,21,Non-binary,Miami,Electronics,1,1099.99
+ORD11107,2025-07-23,51,Female,Chicago,Electronics,2,599.99
+ORD11108,2025-04-14,47,Male,Los Angeles,Home & Kitchen,2,150.0
+ORD11109,2025-04-14,40,Female,Houston,Electronics,5,49.99
+ORD11110,2025-02-10,47,Male,Los Angeles,Electronics,5,299.99
+ORD11111,2025-03-25,18,Male,Los Angeles,Beauty,5,29.99
+ORD11112,2025-12-09,38,Male,Houston,Home & Kitchen,1,12.99
+ORD11113,2025-04-08,31,Male,Seattle,Home & Kitchen,3,150.0
+ORD11114,2025-10-31,21,Female,Los Angeles,Home & Kitchen,2,24.99
+ORD11115,2025-07-22,36,Female,New York,Beauty,3,75.0
+ORD11116,2025-01-28,33,Female,Seattle,Home & Kitchen,4,24.99
+ORD11117,2025-08-29,52,Male,Los Angeles,Beauty,5,18.5
+ORD11118,2025-03-29,29,Male,Los Angeles,Electronics,5,49.99
+ORD11119,2025-10-02,29,Male,Los Angeles,Home & Kitchen,2,12.99
+ORD11120,2025-10-21,52,Male,Houston,Beauty,4,29.99
+ORD11121,2025-04-29,52,Male,New York,Clothing,4,89.99
+ORD11122,2025-01-15,39,Male,Houston,Electronics,5,49.99
+ORD11123,2025-10-06,64,Female,Houston,Electronics,4,49.99
+ORD11124,2025-12-25,21,Male,Houston,Clothing,5,14.99
+ORD11125,2025-03-17,18,Male,New York,Beauty,1,29.99
+ORD11126,2025-12-04,28,Male,Seattle,Home & Kitchen,2,150.0
+ORD11127,2025-02-14,43,Female,Seattle,Home & Kitchen,3,24.99
+ORD11128,2025-10-04,46,Female,Seattle,Home & Kitchen,5,12.99
+ORD11129,2025-03-18,64,Male,Seattle,Clothing,5,19.99
+ORD11130,2025-03-13,38,Female,Houston,Electronics,2,1099.99
+ORD11131,2025-08-09,57,Female,Chicago,Electronics,2,599.99
+ORD11132,2025-01-20,39,Female,Miami,Clothing,5,14.99
+ORD11133,2025-12-21,34,Female,Chicago,Clothing,5,89.99
+ORD11134,2025-06-22,65,Female,Miami,Electronics,3,299.99
+ORD11135,2025-06-27,46,Female,Miami,Beauty,4,9.99
+ORD11136,2025-02-16,40,Female,Los Angeles,Beauty,4,18.5
+ORD11137,2025-09-02,30,Female,Seattle,Clothing,5,19.99
+ORD11138,2025-08-20,35,Male,New York,Electronics,4,49.99
+ORD11139,2025-11-09,52,Female,Miami,Clothing,5,14.99
+ORD11140,2025-09-12,63,Female,Los Angeles,Home & Kitchen,4,85.0
+ORD11141,2025-01-20,59,Female,Seattle,Electronics,2,49.99
+ORD11142,2025-12-16,58,Female,Chicago,Electronics,1,1099.99
+ORD11143,2025-12-06,41,Female,Houston,Beauty,4,75.0
+ORD11144,2025-10-19,20,Male,New York,Clothing,5,89.99
+ORD11145,2025-04-01,65,Male,Chicago,Home & Kitchen,2,150.0
+ORD11146,2025-09-26,43,Female,Houston,Clothing,3,39.99
+ORD11147,2025-11-10,36,Male,Los Angeles,Clothing,4,89.99
+ORD11148,2025-04-24,30,Female,Miami,Electronics,4,1099.99
+ORD11149,2025-03-26,34,Male,Seattle,Home & Kitchen,5,85.0
+ORD11150,2025-06-22,64,Non-binary,Houston,Clothing,4,89.99
+ORD11151,2025-03-27,54,Male,Miami,Clothing,3,39.99
+ORD11152,2025-09-29,56,Female,Chicago,Electronics,5,599.99
+ORD11153,2025-02-24,53,Female,Chicago,Home & Kitchen,4,24.99
+ORD11154,2025-09-23,34,Non-binary,Miami,Home & Kitchen,5,24.99
+ORD11155,2025-06-14,49,Female,Chicago,Home & Kitchen,1,85.0
+ORD11156,2025-04-10,37,Female,New York,Electronics,4,299.99
+ORD11157,2025-11-03,48,Male,Los Angeles,Home & Kitchen,3,85.0
+ORD11158,2025-01-20,23,Female,Los Angeles,Beauty,1,75.0
+ORD11159,2025-06-16,36,Female,Chicago,Home & Kitchen,1,85.0
+ORD11160,2025-04-21,64,Male,Miami,Clothing,4,14.99
+ORD11161,2025-09-26,24,Male,Houston,Beauty,1,75.0
+ORD11162,2025-01-09,57,Male,Los Angeles,Electronics,1,1099.99
+ORD11163,2025-01-19,40,Male,Houston,Electronics,5,49.99
+ORD11164,2025-01-31,56,Female,Los Angeles,Beauty,3,9.99
+ORD11165,2025-07-04,26,Male,Miami,Home & Kitchen,2,12.99
+ORD11166,2025-03-12,39,Female,Houston,Beauty,3,9.99
+ORD11167,2025-10-26,50,Male,Houston,Beauty,3,75.0
+ORD11168,2025-03-27,26,Female,Chicago,Home & Kitchen,5,150.0
+ORD11169,2025-11-20,39,Female,Houston,Home & Kitchen,5,150.0
+ORD11170,2025-05-28,29,Female,Chicago,Electronics,4,299.99
+ORD11171,2025-06-20,19,Male,New York,Electronics,2,299.99
+ORD11172,2025-06-07,41,Female,Miami,Clothing,2,19.99
+ORD11173,2025-03-09,59,Female,New York,Home & Kitchen,1,150.0
+ORD11174,2025-04-17,18,Male,Houston,Electronics,4,599.99
+ORD11175,2025-10-12,65,Male,New York,Home & Kitchen,3,150.0
+ORD11176,2025-09-24,51,Female,Houston,Beauty,4,29.99
+ORD11177,2025-12-20,32,Male,Seattle,Beauty,4,75.0
+ORD11178,2025-03-18,65,Male,Chicago,Clothing,3,89.99
+ORD11179,2025-04-18,22,Female,Los Angeles,Electronics,2,599.99
+ORD11180,2025-02-02,26,Male,Los Angeles,Electronics,5,1099.99
+ORD11181,2025-02-17,21,Male,New York,Electronics,4,599.99
+ORD11182,2025-05-15,49,Male,Seattle,Beauty,1,75.0
+ORD11183,2025-09-30,28,Female,Houston,Electronics,2,49.99
+ORD11184,2025-04-03,40,Female,Chicago,Home & Kitchen,5,150.0
+ORD11185,2025-11-18,35,Female,Houston,Clothing,3,19.99
+ORD11186,2025-03-14,57,Male,Seattle,Beauty,5,18.5
+ORD11187,2025-05-04,64,Male,New York,Clothing,1,14.99
+ORD11188,2025-11-27,48,Male,Houston,Clothing,4,39.99
+ORD11189,2025-04-22,54,Female,Los Angeles,Electronics,2,1099.99
+ORD11190,2025-03-30,27,Female,Miami,Clothing,2,14.99
+ORD11191,2025-02-21,64,Male,Chicago,Electronics,2,1099.99
+ORD11192,2025-10-11,53,Male,Los Angeles,Home & Kitchen,2,150.0
+ORD11193,2025-10-23,52,Male,Miami,Home & Kitchen,4,150.0
+ORD11194,2025-03-04,49,Female,Houston,Beauty,2,29.99
+ORD11195,2025-07-21,36,Male,New York,Home & Kitchen,3,150.0
+ORD11196,2025-10-23,49,Female,Seattle,Electronics,4,599.99
+ORD11197,2025-11-06,55,Male,Los Angeles,Clothing,1,14.99
+ORD11198,2025-03-24,21,Male,Seattle,Beauty,1,18.5
+ORD11199,2025-04-20,49,Female,Chicago,Clothing,2,39.99
+ORD11200,2025-03-18,19,Female,New York,Clothing,4,89.99
+ORD11201,2025-01-28,53,Male,New York,Electronics,5,1099.99
+ORD11202,2025-09-08,56,Female,Seattle,Beauty,3,18.5
+ORD11203,2025-12-17,31,Female,Seattle,Home & Kitchen,2,150.0
+ORD11204,2025-05-02,58,Female,New York,Electronics,1,599.99
+ORD11205,2025-05-23,37,Male,Houston,Electronics,1,1099.99
+ORD11206,2025-08-24,22,Male,Los Angeles,Clothing,1,19.99
+ORD11207,2025-03-18,59,Female,Seattle,Home & Kitchen,1,24.99
+ORD11208,2025-06-05,30,Female,Seattle,Clothing,5,19.99
+ORD11209,2025-04-11,18,Female,Houston,Electronics,5,599.99
+ORD11210,2025-09-13,23,Female,New York,Clothing,1,14.99
+ORD11211,2025-11-21,27,Female,New York,Clothing,1,39.99
+ORD11212,2025-12-18,62,Non-binary,Houston,Beauty,1,29.99
+ORD11213,2025-02-28,56,Female,Seattle,Electronics,1,299.99
+ORD11214,2025-07-15,43,Male,Los Angeles,Electronics,5,299.99
+ORD11215,2025-01-17,46,Male,Chicago,Beauty,2,29.99
+ORD11216,2025-11-15,65,Female,New York,Home & Kitchen,4,85.0
+ORD11217,2025-07-14,39,Male,New York,Clothing,3,14.99
+ORD11218,2025-09-24,24,Male,Chicago,Clothing,1,19.99
+ORD11219,2025-05-26,19,Female,Seattle,Beauty,3,29.99
+ORD11220,2025-01-05,54,Female,Los Angeles,Clothing,4,89.99
+ORD11221,2025-03-07,19,Female,Miami,Clothing,3,89.99
+ORD11222,2025-07-14,22,Female,Seattle,Electronics,5,599.99
+ORD11223,2025-11-02,40,Male,Seattle,Beauty,1,9.99
+ORD11224,2025-04-28,47,Male,Chicago,Clothing,3,14.99
+ORD11225,2025-10-09,38,Female,Houston,Home & Kitchen,2,85.0
+ORD11226,2025-01-14,34,Female,Seattle,Clothing,2,19.99
+ORD11227,2025-09-04,21,Male,Chicago,Clothing,2,14.99
+ORD11228,2025-10-13,49,Male,Los Angeles,Electronics,1,49.99
+ORD11229,2025-08-09,45,Female,New York,Beauty,2,29.99
+ORD11230,2025-03-06,36,Female,New York,Home & Kitchen,3,150.0
+ORD11231,2025-03-23,61,Female,New York,Clothing,1,89.99
+ORD11232,2025-05-08,21,Male,Miami,Home & Kitchen,4,12.99
+ORD11233,2025-10-16,58,Female,Houston,Home & Kitchen,3,24.99
+ORD11234,2025-08-15,55,Female,Chicago,Home & Kitchen,4,150.0
+ORD11235,2025-03-30,33,Male,New York,Clothing,4,89.99
+ORD11236,2025-08-11,18,Male,Miami,Electronics,5,299.99
+ORD11237,2025-03-04,20,Male,Seattle,Beauty,1,29.99
+ORD11238,2025-08-19,43,Male,New York,Beauty,4,29.99
+ORD11239,2025-09-22,20,Female,Miami,Electronics,4,1099.99
+ORD11240,2025-02-24,27,Female,Seattle,Electronics,1,1099.99
+ORD11241,2025-08-26,23,Male,New York,Beauty,1,18.5
+ORD11242,2025-05-07,21,Female,Los Angeles,Home & Kitchen,1,24.99
+ORD11243,2025-05-28,41,Non-binary,Chicago,Beauty,2,75.0
+ORD11244,2025-07-25,29,Male,Los Angeles,Electronics,5,299.99
+ORD11245,2025-08-11,29,Male,Miami,Home & Kitchen,4,12.99
+ORD11246,2025-12-27,45,Female,Houston,Electronics,1,599.99
+ORD11247,2025-10-15,18,Male,Seattle,Clothing,2,14.99
+ORD11248,2025-08-14,34,Female,Houston,Beauty,1,29.99
+ORD11249,2025-06-30,55,Male,Los Angeles,Clothing,1,14.99
+ORD11250,2025-01-17,21,Non-binary,Houston,Beauty,1,18.5
+ORD11251,2025-06-09,39,Female,New York,Electronics,1,299.99
+ORD11252,2025-08-17,55,Female,Houston,Electronics,1,1099.99
+ORD11253,2025-01-11,65,Female,Miami,Clothing,5,19.99
+ORD11254,2025-12-25,63,Female,Chicago,Electronics,2,1099.99
+ORD11255,2025-12-08,63,Male,Los Angeles,Electronics,5,1099.99
+ORD11256,2025-11-08,50,Male,Miami,Home & Kitchen,4,12.99
+ORD11257,2025-11-07,51,Non-binary,Seattle,Clothing,2,19.99
+ORD11258,2025-08-26,55,Male,New York,Beauty,5,18.5
+ORD11259,2025-10-12,65,Male,Houston,Beauty,2,9.99
+ORD11260,2025-04-21,49,Male,New York,Beauty,5,18.5
+ORD11261,2025-05-17,33,Male,Los Angeles,Home & Kitchen,2,12.99
+ORD11262,2025-04-18,65,Female,Miami,Home & Kitchen,5,24.99
+ORD11263,2025-08-17,18,Male,Chicago,Clothing,2,14.99
+ORD11264,2025-01-14,31,Female,Miami,Beauty,1,29.99
+ORD11265,2025-02-15,44,Male,Los Angeles,Electronics,1,1099.99
+ORD11266,2025-10-07,23,Male,Seattle,Beauty,1,29.99
+ORD11267,2025-02-12,46,Non-binary,Seattle,Home & Kitchen,1,24.99
+ORD11268,2025-10-07,43,Female,Chicago,Clothing,1,39.99
+ORD11269,2025-08-20,40,Female,Seattle,Clothing,5,14.99
+ORD11270,2025-07-11,46,Female,Miami,Clothing,1,19.99
+ORD11271,2025-05-13,52,Male,Houston,Home & Kitchen,1,12.99
+ORD11272,2025-04-03,30,Male,New York,Home & Kitchen,1,12.99
+ORD11273,2025-11-28,60,Male,Los Angeles,Beauty,2,75.0
+ORD11274,2025-11-04,60,Male,Miami,Clothing,4,14.99
+ORD11275,2025-10-24,60,Female,Houston,Electronics,1,1099.99
+ORD11276,2025-10-29,40,Male,New York,Home & Kitchen,5,24.99
+ORD11277,2025-08-05,25,Male,New York,Beauty,2,29.99
+ORD11278,2025-09-07,36,Female,Seattle,Clothing,4,89.99
+ORD11279,2025-07-01,24,Female,Houston,Beauty,3,29.99
+ORD11280,2025-11-24,20,Female,Houston,Home & Kitchen,4,12.99
+ORD11281,2025-10-07,33,Female,Miami,Beauty,3,9.99
+ORD11282,2025-08-20,50,Male,New York,Beauty,2,9.99
+ORD11283,2025-10-15,39,Male,Los Angeles,Clothing,5,89.99
+ORD11284,2025-05-05,58,Male,Miami,Clothing,5,19.99
+ORD11285,2025-10-21,32,Male,Houston,Clothing,4,19.99
+ORD11286,2025-03-12,34,Male,Los Angeles,Beauty,4,9.99
+ORD11287,2025-01-12,57,Female,New York,Home & Kitchen,2,24.99
+ORD11288,2025-02-27,55,Female,Seattle,Clothing,5,89.99
+ORD11289,2025-11-24,28,Non-binary,Los Angeles,Beauty,2,9.99
+ORD11290,2025-04-20,48,Female,New York,Home & Kitchen,2,85.0
+ORD11291,2025-01-23,34,Male,Miami,Electronics,3,49.99
+ORD11292,2025-12-25,19,Female,Chicago,Home & Kitchen,4,150.0
+ORD11293,2025-03-16,34,Male,New York,Beauty,1,75.0
+ORD11294,2025-04-09,62,Male,New York,Beauty,1,18.5
+ORD11295,2025-08-29,65,Female,Seattle,Electronics,3,599.99
+ORD11296,2025-11-01,52,Female,Miami,Electronics,4,299.99
+ORD11297,2025-08-25,53,Male,Chicago,Electronics,3,49.99
+ORD11298,2025-07-31,51,Female,New York,Clothing,5,89.99
+ORD11299,2025-04-05,43,Female,Chicago,Beauty,5,29.99
+ORD11300,2025-07-22,62,Female,Houston,Home & Kitchen,5,12.99
+ORD11301,2025-06-09,62,Female,New York,Home & Kitchen,5,150.0
+ORD11302,2025-05-14,38,Female,New York,Electronics,5,299.99
+ORD11303,2025-03-11,64,Female,Los Angeles,Electronics,3,49.99
+ORD11304,2025-05-07,62,Female,Seattle,Electronics,1,1099.99
+ORD11305,2025-02-06,48,Male,Seattle,Electronics,5,599.99
+ORD11306,2025-10-03,53,Female,Los Angeles,Beauty,2,75.0
+ORD11307,2025-07-30,63,Female,New York,Home & Kitchen,3,150.0
+ORD11308,2025-11-03,21,Male,New York,Electronics,5,299.99
+ORD11309,2025-12-02,59,Female,Los Angeles,Home & Kitchen,2,150.0
+ORD11310,2025-01-25,36,Female,Houston,Home & Kitchen,4,12.99
+ORD11311,2025-09-12,44,Male,Houston,Home & Kitchen,1,85.0
+ORD11312,2025-06-09,38,Male,Chicago,Beauty,3,18.5
+ORD11313,2025-10-03,19,Female,Chicago,Home & Kitchen,2,85.0
+ORD11314,2025-09-17,56,Male,Los Angeles,Clothing,3,89.99
+ORD11315,2025-07-27,42,Female,Seattle,Clothing,3,14.99
+ORD11316,2025-12-25,36,Male,Houston,Home & Kitchen,2,150.0
+ORD11317,2025-01-28,18,Female,Seattle,Beauty,2,29.99
+ORD11318,2025-03-02,29,Male,Los Angeles,Beauty,4,18.5
+ORD11319,2025-12-22,60,Female,Houston,Clothing,5,89.99
+ORD11320,2025-02-04,42,Male,New York,Clothing,1,89.99
+ORD11321,2025-02-17,41,Female,Miami,Home & Kitchen,1,12.99
+ORD11322,2025-01-04,52,Male,Houston,Beauty,4,18.5
+ORD11323,2025-10-14,26,Male,New York,Clothing,4,89.99
+ORD11324,2025-01-07,35,Male,Seattle,Beauty,2,75.0
+ORD11325,2025-11-23,45,Male,Seattle,Electronics,1,599.99
+ORD11326,2025-04-15,51,Male,Seattle,Beauty,2,75.0
+ORD11327,2025-08-09,40,Female,Seattle,Beauty,4,9.99
+ORD11328,2025-10-11,40,Non-binary,Seattle,Clothing,3,89.99
+ORD11329,2025-09-21,29,Male,New York,Clothing,3,89.99
+ORD11330,2025-07-05,35,Male,Seattle,Beauty,3,75.0
+ORD11331,2025-12-01,41,Male,Houston,Home & Kitchen,2,85.0
+ORD11332,2025-02-09,25,Male,Los Angeles,Clothing,3,14.99
+ORD11333,2025-10-03,57,Female,Seattle,Beauty,4,9.99
+ORD11334,2025-08-13,43,Female,Los Angeles,Home & Kitchen,4,85.0
+ORD11335,2025-03-28,19,Male,Miami,Beauty,1,29.99
+ORD11336,2025-09-01,40,Female,Seattle,Electronics,5,299.99
+ORD11337,2025-07-18,33,Female,Chicago,Home & Kitchen,1,85.0
+ORD11338,2025-07-17,56,Non-binary,Los Angeles,Home & Kitchen,3,85.0
+ORD11339,2025-11-16,32,Male,Los Angeles,Home & Kitchen,1,24.99
+ORD11340,2025-12-25,58,Female,Miami,Electronics,4,49.99
+ORD11341,2025-08-31,50,Male,New York,Beauty,2,75.0
+ORD11342,2025-05-23,34,Male,Seattle,Home & Kitchen,3,150.0
+ORD11343,2025-08-07,21,Female,Los Angeles,Home & Kitchen,4,24.99
+ORD11344,2025-11-05,57,Male,Seattle,Electronics,3,299.99
+ORD11345,2025-05-04,59,Female,Los Angeles,Beauty,5,75.0
+ORD11346,2025-07-17,57,Female,Houston,Clothing,3,19.99
+ORD11347,2025-06-11,48,Female,Los Angeles,Beauty,3,9.99
+ORD11348,2025-08-19,61,Male,Houston,Clothing,1,19.99
+ORD11349,2025-11-03,52,Female,Houston,Home & Kitchen,3,85.0
+ORD11350,2025-03-09,31,Female,Seattle,Clothing,2,14.99
+ORD11351,2025-09-24,33,Male,New York,Clothing,5,19.99
+ORD11352,2025-09-13,19,Male,Los Angeles,Clothing,5,39.99
+ORD11353,2025-09-21,21,Female,Miami,Clothing,2,39.99
+ORD11354,2025-03-04,20,Female,New York,Clothing,2,39.99
+ORD11355,2025-01-02,19,Male,Miami,Beauty,4,18.5
+ORD11356,2025-07-14,25,Male,New York,Beauty,1,18.5
+ORD11357,2025-01-06,53,Male,Chicago,Clothing,4,89.99
+ORD11358,2025-02-17,36,Male,Seattle,Clothing,3,89.99
+ORD11359,2025-11-29,33,Female,New York,Electronics,3,49.99
+ORD11360,2025-08-04,53,Female,Los Angeles,Home & Kitchen,4,150.0
+ORD11361,2025-10-29,38,Female,New York,Electronics,2,299.99
+ORD11362,2025-01-09,47,Female,Houston,Clothing,3,19.99
+ORD11363,2025-05-23,39,Non-binary,Miami,Beauty,1,18.5
+ORD11364,2025-06-19,19,Female,New York,Beauty,4,18.5
+ORD11365,2025-08-05,35,Male,New York,Beauty,3,75.0
+ORD11366,2025-02-14,63,Male,Los Angeles,Home & Kitchen,4,24.99
+ORD11367,2025-10-05,38,Male,Miami,Home & Kitchen,1,12.99
+ORD11368,2025-09-25,57,Male,Miami,Clothing,4,14.99
+ORD11369,2025-10-08,30,Male,Los Angeles,Beauty,2,18.5
+ORD11370,2025-07-18,56,Female,New York,Clothing,5,14.99
+ORD11371,2025-10-12,51,Female,Miami,Electronics,5,49.99
+ORD11372,2025-12-16,60,Female,Miami,Electronics,1,1099.99
+ORD11373,2025-07-09,55,Male,Chicago,Beauty,5,9.99
+ORD11374,2025-08-21,42,Male,Miami,Clothing,1,39.99
+ORD11375,2025-02-14,26,Male,Seattle,Home & Kitchen,5,12.99
+ORD11376,2025-10-23,53,Female,Los Angeles,Beauty,3,9.99
+ORD11377,2025-02-10,53,Female,Miami,Home & Kitchen,1,85.0
+ORD11378,2025-08-25,41,Male,Chicago,Electronics,4,49.99
+ORD11379,2025-08-22,36,Female,Seattle,Clothing,3,14.99
+ORD11380,2025-07-17,56,Male,New York,Electronics,3,599.99
+ORD11381,2025-02-17,56,Female,Houston,Clothing,3,14.99
+ORD11382,2025-04-01,28,Male,Houston,Home & Kitchen,4,24.99
+ORD11383,2025-01-28,63,Female,Chicago,Home & Kitchen,2,150.0
+ORD11384,2025-02-23,53,Male,Chicago,Home & Kitchen,1,12.99
+ORD11385,2025-06-13,45,Female,Los Angeles,Electronics,2,599.99
+ORD11386,2025-07-07,49,Female,Seattle,Electronics,1,299.99
+ORD11387,2025-11-20,43,Male,Seattle,Home & Kitchen,3,12.99
+ORD11388,2025-01-28,47,Male,Los Angeles,Home & Kitchen,2,12.99
+ORD11389,2025-09-15,28,Female,Miami,Home & Kitchen,1,150.0
+ORD11390,2025-01-30,23,Female,Seattle,Clothing,3,39.99
+ORD11391,2025-08-20,33,Male,Houston,Electronics,5,49.99
+ORD11392,2025-07-11,18,Female,New York,Home & Kitchen,1,24.99
+ORD11393,2025-03-01,54,Male,New York,Clothing,1,14.99
+ORD11394,2025-12-03,23,Male,Houston,Electronics,3,299.99
+ORD11395,2025-04-27,46,Male,Miami,Clothing,1,39.99
+ORD11396,2025-01-17,47,Male,Houston,Home & Kitchen,1,24.99
+ORD11397,2025-09-05,34,Female,Seattle,Electronics,5,1099.99
+ORD11398,2025-12-31,38,Female,Los Angeles,Clothing,4,14.99
+ORD11399,2025-10-31,53,Female,Houston,Home & Kitchen,5,85.0
+ORD11400,2025-05-12,35,Non-binary,New York,Beauty,5,9.99
+ORD11401,2025-09-21,27,Non-binary,Los Angeles,Home & Kitchen,2,24.99
+ORD11402,2025-02-06,20,Male,New York,Clothing,5,89.99
+ORD11403,2025-12-06,57,Male,Seattle,Clothing,4,19.99
+ORD11404,2025-06-01,31,Non-binary,Seattle,Home & Kitchen,3,12.99
+ORD11405,2025-09-26,33,Male,Los Angeles,Beauty,4,9.99
+ORD11406,2025-05-20,52,Male,Seattle,Beauty,2,18.5
+ORD11407,2025-10-29,53,Male,Seattle,Home & Kitchen,5,150.0
+ORD11408,2025-09-15,30,Female,Los Angeles,Home & Kitchen,4,85.0
+ORD11409,2025-11-19,37,Male,Los Angeles,Electronics,3,1099.99
+ORD11410,2025-01-28,46,Female,Chicago,Electronics,3,49.99
+ORD11411,2025-08-18,57,Male,New York,Home & Kitchen,2,12.99
+ORD11412,2025-04-16,54,Male,New York,Electronics,3,1099.99
+ORD11413,2025-02-24,20,Female,Seattle,Home & Kitchen,5,24.99
+ORD11414,2025-02-22,32,Male,New York,Electronics,5,49.99
+ORD11415,2025-07-18,24,Female,Seattle,Electronics,3,599.99
+ORD11416,2025-06-01,63,Female,Seattle,Beauty,2,9.99
+ORD11417,2025-03-28,58,Male,Seattle,Home & Kitchen,3,85.0
+ORD11418,2025-05-18,62,Female,Seattle,Clothing,1,19.99
+ORD11419,2025-12-08,26,Male,Chicago,Home & Kitchen,1,24.99
+ORD11420,2025-03-22,44,Female,Seattle,Electronics,3,299.99
+ORD11421,2025-02-26,39,Male,Seattle,Clothing,5,89.99
+ORD11422,2025-05-13,46,Female,Miami,Home & Kitchen,4,24.99
+ORD11423,2025-05-25,20,Non-binary,Houston,Electronics,2,49.99
+ORD11424,2025-03-08,47,Female,New York,Home & Kitchen,1,150.0
+ORD11425,2025-04-29,60,Female,New York,Electronics,4,299.99
+ORD11426,2025-05-28,61,Female,Chicago,Electronics,5,599.99
+ORD11427,2025-03-02,18,Male,Los Angeles,Electronics,4,599.99
+ORD11428,2025-01-24,50,Female,Chicago,Electronics,5,299.99
+ORD11429,2025-06-03,58,Female,New York,Clothing,5,89.99
+ORD11430,2025-11-12,29,Non-binary,Chicago,Home & Kitchen,3,85.0
+ORD11431,2025-12-18,54,Male,New York,Home & Kitchen,1,12.99
+ORD11432,2025-01-18,21,Male,Houston,Electronics,4,299.99
+ORD11433,2025-10-20,45,Female,Miami,Electronics,5,299.99
+ORD11434,2025-07-18,63,Male,Chicago,Electronics,4,599.99
+ORD11435,2025-09-14,35,Female,Los Angeles,Clothing,5,39.99
+ORD11436,2025-05-28,37,Female,Chicago,Clothing,1,19.99
+ORD11437,2025-07-21,49,Female,Los Angeles,Home & Kitchen,1,150.0
+ORD11438,2025-04-22,28,Female,New York,Electronics,2,49.99
+ORD11439,2025-07-14,38,Male,Houston,Clothing,1,89.99
+ORD11440,2025-08-24,52,Male,Miami,Electronics,5,599.99
+ORD11441,2025-12-26,27,Male,Los Angeles,Home & Kitchen,1,150.0
+ORD11442,2025-02-05,18,Female,New York,Electronics,1,49.99
+ORD11443,2025-07-02,33,Male,Miami,Beauty,2,75.0
+ORD11444,2025-01-08,27,Female,New York,Electronics,4,49.99
+ORD11445,2025-08-16,32,Female,Miami,Electronics,3,1099.99
+ORD11446,2025-08-22,39,Female,Miami,Beauty,5,75.0
+ORD11447,2025-04-06,23,Male,Seattle,Beauty,2,75.0
+ORD11448,2025-07-22,20,Male,Los Angeles,Beauty,1,29.99
+ORD11449,2025-12-22,27,Female,Chicago,Clothing,3,19.99
+ORD11450,2025-08-25,47,Female,Seattle,Clothing,4,19.99
+ORD11451,2025-02-28,23,Female,Los Angeles,Clothing,2,19.99
+ORD11452,2025-04-07,45,Female,Los Angeles,Electronics,1,599.99
+ORD11453,2025-06-30,51,Female,Miami,Beauty,3,9.99
+ORD11454,2025-10-17,24,Male,New York,Beauty,5,29.99
+ORD11455,2025-07-10,39,Female,New York,Home & Kitchen,4,12.99
+ORD11456,2025-03-27,63,Female,Houston,Electronics,3,299.99
+ORD11457,2025-05-02,48,Female,Seattle,Clothing,5,19.99
+ORD11458,2025-07-12,56,Female,Miami,Beauty,5,29.99
+ORD11459,2025-05-22,39,Non-binary,Chicago,Electronics,5,299.99
+ORD11460,2025-03-12,28,Female,Houston,Clothing,1,19.99
+ORD11461,2025-04-01,53,Male,Chicago,Clothing,2,39.99
+ORD11462,2025-12-06,27,Male,New York,Home & Kitchen,4,150.0
+ORD11463,2025-05-23,59,Male,Los Angeles,Electronics,4,299.99
+ORD11464,2025-07-04,54,Female,Los Angeles,Electronics,1,599.99
+ORD11465,2025-03-07,20,Female,New York,Home & Kitchen,2,85.0
+ORD11466,2025-03-09,26,Female,Houston,Home & Kitchen,1,85.0
+ORD11467,2025-05-05,41,Female,New York,Clothing,4,19.99
+ORD11468,2025-06-21,21,Male,Houston,Clothing,1,19.99
+ORD11469,2025-06-26,63,Female,Los Angeles,Beauty,4,18.5
+ORD11470,2025-07-02,43,Female,New York,Clothing,1,39.99
+ORD11471,2025-12-17,19,Female,Miami,Electronics,1,49.99
+ORD11472,2025-08-29,37,Male,Miami,Electronics,5,599.99
+ORD11473,2025-09-29,31,Male,New York,Home & Kitchen,5,85.0
+ORD11474,2025-05-22,22,Female,Houston,Clothing,5,39.99
+ORD11475,2025-02-11,30,Female,Houston,Beauty,5,9.99
+ORD11476,2025-01-29,41,Male,Chicago,Beauty,4,18.5
+ORD11477,2025-01-21,42,Male,Houston,Clothing,5,19.99
+ORD11478,2025-09-20,43,Male,New York,Home & Kitchen,3,150.0
+ORD11479,2025-06-03,59,Male,Houston,Beauty,3,29.99
+ORD11480,2025-11-06,30,Female,Miami,Beauty,1,75.0
+ORD11481,2025-06-04,59,Female,Los Angeles,Beauty,2,29.99
+ORD11482,2025-03-28,42,Male,New York,Electronics,2,1099.99
+ORD11483,2025-05-11,31,Female,Seattle,Clothing,5,89.99
+ORD11484,2025-12-23,38,Male,Los Angeles,Electronics,5,299.99
+ORD11485,2025-09-10,56,Non-binary,Miami,Electronics,2,49.99
+ORD11486,2025-11-24,33,Female,Seattle,Electronics,3,49.99
+ORD11487,2025-04-23,30,Female,Los Angeles,Clothing,4,89.99
+ORD11488,2025-04-06,41,Female,Chicago,Clothing,2,39.99
+ORD11489,2025-05-14,30,Female,New York,Clothing,1,19.99
+ORD11490,2025-12-28,41,Female,Miami,Beauty,1,18.5
+ORD11491,2025-07-11,64,Male,Houston,Beauty,4,75.0
+ORD11492,2025-06-19,47,Male,Seattle,Home & Kitchen,2,150.0
+ORD11493,2025-07-04,33,Male,Miami,Beauty,4,75.0
+ORD11494,2025-07-17,64,Female,Miami,Beauty,4,9.99
+ORD11495,2025-04-17,35,Male,Los Angeles,Home & Kitchen,3,150.0
+ORD11496,2025-01-12,52,Female,New York,Home & Kitchen,5,150.0
+ORD11497,2025-02-14,39,Male,Houston,Clothing,3,89.99
+ORD11498,2025-10-22,42,Male,Houston,Clothing,2,19.99
+ORD11499,2025-01-07,47,Female,Chicago,Clothing,3,39.99
