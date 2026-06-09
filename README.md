@@ -9,7 +9,7 @@ The goal of this project was to analyze customer demographic data and purchasing
 * **Business Acumen:** Customer segmentation, revenue forecasting, and trend analysis.
 
 ## Executive Dashboard Preview
-![Sales Dashboard](dahsboards/dashboard_preview.png)
+![Sales Dashboard](dashboards/dashboard_preview.png)
 
 ## Key Business Insights Discovered
 1. **The Demographics Goldmine:** High-value orders (> $500) are heavily concentrated in the 26-35 female demographic, contributing to 42% of total revenue, despite making up only 28% of the total customer base. 
